@@ -1,0 +1,1037 @@
+,0
+0,"{
+    ""job_posting_id"": ""12345"",
+    ""CompanyName"": ""ABC Company"",
+    ""Location"": ""New York, NY"",
+    ""Description"": ""ABC Company is seeking a talented individual to join our team as a software engineer. The ideal candidate will have experience with Java, Python, and SQL."",
+    ""Requirements_Essential"": ""Bachelor's degree in Computer Science or related field, 3+ years of experience in software development"",
+    ""Requirements_Preferred"": ""Experience with cloud technologies, such as AWS or Azure"",
+    ""AdditionalSkills"": ""Excellent communication skills, ability to work in a team environment"",
+    ""Compensation_SalaryRange"": ""$80,000 - $100,000"",
+    ""Compensation_Benefits"": ""Health insurance, 401k matching, paid time off"",
+    ""OtherInformation"": """",
+    ""CompanyInformation_About"": ""ABC Company is a leading technology company that specializes in developing innovative software solutions for businesses."",
+    ""CompanyInformation_Culture"": ""We have a collaborative and inclusive work environment where employees are encouraged to share ideas and take on new challenges."",
+    ""CompanyInformation_Values"": ""Integrity, Innovation, Teamwork""
+}"
+,0
+0,"{
+    ""job_posting_id"": ""12345"",
+    ""CompanyName"": ""ABC Company"",
+    ""Location"": ""New York, NY"",
+    ""Description"": ""We are seeking a talented individual to join our team."",
+    ""Requirements_Essential"": ""Bachelor's degree in related field"",
+    ""Requirements_Preferred"": ""Master's degree"",
+    ""AdditionalSkills"": ""Strong communication skills"",
+    ""Compensation_SalaryRange"": ""$50,000 - $70,000"",
+    ""Compensation_Benefits"": ""Health insurance, 401k"",
+    ""OtherInformation"": """",
+    ""CompanyInformation_About"": ""ABC Company is a leading provider of innovative solutions."",
+    ""CompanyInformation_Culture"": ""We foster a collaborative and inclusive work environment."",
+    ""CompanyInformation_Values"": ""Integrity, Innovation, Excellence""
+}"
+,0
+0,"{
+    ""job_posting_id"": """",
+    ""CompanyName"": ""Apptronik"",
+    ""Location"": """",
+    ""Description"": ""Apptronik is building robots for the real world to improve human quality of life and to help solve the ever-increasing labor shortage problem. Our team has been building some of the most advanced robots on the planet for years, dating back to the DARPA Robotics Challenge. We apply our expertise across the full robotics stack to some of the most important and impactful problems our society faces, and expect our products and technology to change the world for the better. We value passion, creativity, and collaboration to help us overcome existing technological barriers in the industry to create truly innovative products. You will join a team developing a state-of-the-art general-purpose robots designed to operate in human spaces and with human tools. It is designed to work alongside humans, mobilize to human spaces, and manipulate the world around it."",
+    ""Requirements_Essential"": ""MUST be an undergraduate or graduate student enrolled in an accredited program during the internship term. Pursuing a degree in Computer Science, Electrical/ Mechanical/ Aerospace Engineering or similar. Experience in software and algorithm development for control, planning, perception, or autonomy for robotics. Proficient in C++ in a Linux development environment (+1 yrs of C++), with prior demonstrated ability to: Translate complex theoretical concepts and algorithms into practical, efficient, and bug-free software implementations. Perform on a fast-paced software development team using standard CI tools like Git while following rigorous documentation and testing standards. Familiar with modern software tools / libraries relevant to your skillset. Robotics frameworks and libraries such as ROS, Ignition Gazebo, Pinocchio, MuJuCo, OMPL, MoveIt etc. Strong theoretical understanding of some significant subset of dynamics, controls, estimation, data science, or linear algebra. Excellent communication and documentation skills. GPA of 3.0 or above. Middleware Experience (ZMQ, GRPC, ROS1 or ROS2). Experience with Mongo, SQL, PostgreSQL or ELK."",
+    ""Requirements_Preferred"": ""Experience developing and debugging real-time, multithreaded software systems. Experience implementing model-based feedback control of articulated robots and troubleshooting hardware. Experience with modeling dynamic systems, system identification, and optimization solvers. Experience with embedded systems and firmware development. Familiarity with RTPreempt and Linux kernel configuration. Experience with EtherCAT. Experience with Latency Sensitive Systems."",
+    ""AdditionalSkills"": """",
+    ""Compensation_SalaryRange"": """",
+    ""Compensation_Benefits"": """",
+    ""OtherInformation"": ""This position is expected to start in-person around May/June 2024 and continue through the entire Summer (i.e. through Aug/Sep 2024). We ask for a minimum of 10 weeks. Interns should expect to work Monday-Friday, up to 40 hours per week, typically between 9am-5pm. Specific team norms around working hours will be communicated by your manager. Please consider before applying."",
+    ""CompanyInformation_About"": ""Apptronik provides equal employment opportunities to all employees and applicants for employment and prohibits discrimination and harassment of any type without regard to race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state or local laws."",
+    ""CompanyInformation_Culture"": """",
+    ""CompanyInformation_Values"": """"
+}"
+,0
+0,"{
+    ""job_posting_id"": """",
+    ""CompanyName"": ""Apptronik"",
+    ""Location"": """",
+    ""Description"": ""Apptronik is building robots for the real world to improve human quality of life and to help solve the ever-increasing labor shortage problem. Our team has been building some of the most advanced robots on the planet for years, dating back to the DARPA Robotics Challenge. We apply our expertise across the full robotics stack to some of the most important and impactful problems our society faces, and expect our products and technology to change the world for the better. We value passion, creativity, and collaboration to help us overcome existing technological barriers in the industry to create truly innovative products. You will join a team developing a state-of-the-art general-purpose robots designed to operate in human spaces and with human tools. It is designed to work alongside humans, mobilize to human spaces, and manipulate the world around it."",
+    ""Requirements_Essential"": ""MUST be an undergraduate or graduate student enrolled in an accredited program during the internship term. Pursuing a degree in Computer Science, Electrical/ Mechanical/ Aerospace Engineering or similar. Experience in software and algorithm development for control, planning, perception, or autonomy for robotics. Proficient in C++ in a Linux development environment (+1 yrs of C++), with prior demonstrated ability to: Translate complex theoretical concepts and algorithms into practical, efficient, and bug-free software implementations. Perform on a fast-paced software development team using standard CI tools like Git while following rigorous documentation and testing standards. Familiar with modern software tools / libraries relevant to your skillset. Robotics frameworks and libraries such as ROS, Ignition Gazebo, Pinocchio, MuJuCo, OMPL, MoveIt etc. Strong theoretical understanding of some significant subset of dynamics, controls, estimation, data science, or linear algebra. Excellent communication and documentation skills. GPA of 3.0 or above. Middleware Experience (ZMQ, GRPC, ROS1 or ROS2). Experience with Mongo, SQL, PostgreSQL or ELK."",
+    ""Requirements_Preferred"": ""Experience developing and debugging real-time, multithreaded software systems. Experience implementing model-based feedback control of articulated robots and troubleshooting hardware. Experience with modeling dynamic systems, system identification, and optimization solvers. Experience with embedded systems and firmware development. Familiarity with RTPreempt and Linux kernel configuration. Experience with EtherCAT. Experience with Latency Sensitive Systems."",
+    ""AdditionalSkills"": """",
+    ""Compensation_SalaryRange"": """",
+    ""Compensation_Benefits"": """",
+    ""OtherInformation"": ""This position is expected to start in-person around May/June 2024 and continue through the entire Summer (i.e. through Aug/Sep 2024). We ask for a minimum of 10 weeks. Interns should expect to work Monday-Friday, up to 40 hours per week, typically between 9am-5pm. Specific team norms around working hours will be communicated by your manager. Please consider before applying."",
+    ""CompanyInformation_About"": ""Apptronik provides equal employment opportunities to all employees and applicants for employment and prohibits discrimination and harassment of any type without regard to race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state or local laws."",
+    ""CompanyInformation_Culture"": """",
+    ""CompanyInformation_Values"": """"
+}"
+0,"{
+    ""job_posting_id"": """",
+    ""CompanyName"": ""Apptronik"",
+    ""Location"": """",
+    ""Description"": ""Apptronik is building robots for the real world to improve human quality of life and to help solve the ever-increasing labor shortage problem. Our team has been building some of the most advanced robots on the planet for years, dating back to the DARPA Robotics Challenge. We apply our expertise across the full robotics stack to some of the most important and impactful problems our society faces, and expect our products and technology to change the world for the better. We value passion, creativity, and collaboration to help us overcome existing technological barriers in the industry to create truly innovative products. You will join a team developing a state-of-the-art general-purpose robots designed to operate in human spaces and with human tools. It is designed to work alongside humans, mobilize to human spaces, and manipulate the world around it."",
+    ""Requirements_Essential"": ""MUST be an undergraduate or graduate student enrolled in an accredited program during the internship term. Pursuing a degree in Computer Science, Electrical/ Mechanical/ Aerospace Engineering or similar. Experience in software and algorithm development for control, planning, perception, or autonomy for robotics. Proficient in C++ in a Linux development environment (+1 yrs of C++). Familiar with modern software tools / libraries relevant to your skillset. Robotics frameworks and libraries such as ROS, Ignition Gazebo, Pinocchio, MuJuCo, OMPL, MoveIt etc. Strong theoretical understanding of some significant subset of dynamics, controls, estimation, data science, or linear algebra. Excellent communication and documentation skills. GPA of 3.0 or above. Middleware Experience (ZMQ, GRPC, ROS1 or ROS2). Experience with Mongo, SQL, PostgreSQL or ELK."",
+    ""Requirements_Preferred"": ""Experience developing and debugging real-time, multithreaded software systems. Experience implementing model-based feedback control of articulated robots and troubleshooting hardware. Experience with modeling dynamic systems, system identification, and optimization solvers. Experience with embedded systems and firmware development. Familiarity with RTPreempt and Linux kernel configuration. Experience with EtherCAT. Experience with Latency Sensitive Systems."",
+    ""AdditionalSkills"": """",
+    ""Compensation_SalaryRange"": """",
+    ""Compensation_Benefits"": """",
+    ""OtherInformation"": ""This position is expected to start in-person around May/June 2024 and continue through the entire Summer (i.e. through Aug/Sep 2024). Interns should expect to work Monday-Friday, up to 40 hours per week, typically between 9am-5pm. Specific team norms around working hours will be communicated by your manager. Please consider before applying."",
+    ""CompanyInformation_About"": ""Apptronik provides equal employment opportunities to all employees and applicants for employment and prohibits discrimination and harassment of any type without regard to race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state or local laws."",
+    ""CompanyInformation_Culture"": """",
+    ""CompanyInformation_Values"": """"
+}"
+0,"{
+    ""job_posting_id"": ""12345"",
+    ""CompanyName"": ""ABC Company"",
+    ""Location"": ""New York, NY"",
+    ""Description"": ""We are seeking a talented individual to join our team."",
+    ""Requirements_Essential"": ""Bachelor's degree in Computer Science"",
+    ""Requirements_Preferred"": ""Experience with Python programming"",
+    ""AdditionalSkills"": ""Strong communication skills"",
+    ""Compensation_SalaryRange"": ""$60,000 - $80,000"",
+    ""Compensation_Benefits"": ""Health insurance, 401k"",
+    ""OtherInformation"": """",
+    ""CompanyInformation_About"": ""ABC Company is a leading tech company in the industry."",
+    ""CompanyInformation_Culture"": ""We have a collaborative and innovative work culture."",
+    ""CompanyInformation_Values"": ""Our values include integrity, teamwork, and excellence.""
+}"
+0,"{
+    ""job_posting_id"": ""12345"",
+    ""CompanyName"": ""ABC Company"",
+    ""Location"": ""New York, NY"",
+    ""Description"": ""We are seeking a talented individual to join our team."",
+    ""Requirements_Essential"": ""Bachelor's degree in Computer Science"",
+    ""Requirements_Preferred"": ""Master's degree in Business Administration"",
+    ""AdditionalSkills"": ""Strong communication skills"",
+    ""Compensation_SalaryRange"": ""$50,000 - $70,000"",
+    ""Compensation_Benefits"": ""Health insurance, 401k"",
+    ""OtherInformation"": """",
+    ""CompanyInformation_About"": ""ABC Company is a leading technology firm."",
+    ""CompanyInformation_Culture"": ""We value teamwork and innovation."",
+    ""CompanyInformation_Values"": ""Integrity, Excellence, Collaboration""
+}"
+0,"{
+    ""job_posting_id"": """",
+    ""CompanyName"": ""Contextual AI"",
+    ""Location"": ""Mountain View, CA"",
+    ""Description"": ""We are seeking talented and motivated interns to join our AI Research team. As an AI Research Intern, you will work directly under the guidance of a research mentor, contributing to cutting-edge projects in the areas of artificial intelligence, and machine learning. This is an opportunity to gain hands-on experience with working on real-world applications and expand your knowledge while having the potential to transform and leave a lasting impact on our company's technology stack."",
+    ""Requirements_Essential"": ""Currently pursuing or recently completed a BS/MS/PhD degree in Computer Science, Artificial Intelligence, or a related field. Strong programming skills in languages such as Python, Rust or C++. Familiarity with machine learning frameworks and libraries, such as JAX or PyTorch. Solid understanding of fundamental ML concepts, algorithms, and techniques. Ability to analyze and interpret research papers and technical documentation. Excellent problem-solving and critical-thinking abilities. Strong written and verbal communication skills. Proactive and self-motivated, with the ability to work independently and in a team environment."",
+    ""Requirements_Preferred"": ""Prior experience in AI research or projects. Comfort with ambiguity and resilient when facing rapid change. Ability to communicate complex research in a clear, precise, and actionable manner. A strong interest in empirical research and for answering hard questions with research. Interpersonal experience: cross-group and cross-culture collaboration. Ability to stay in touch with the literature of a particular domain and has the ability to reproduce results if needed."",
+    ""AdditionalSkills"": """",
+    ""Compensation_SalaryRange"": ""$110,000-120,000"",
+    ""Compensation_Benefits"": ""actual compensation will be determined based on experience, location, and other factors permitted by law."",
+    ""OtherInformation"": """",
+    ""CompanyInformation_About"": ""Equal employment opportunities to all qualified individuals without regard to race, color, religion, sex, gender identity, sexual orientation, pregnancy, age, national origin, physical or mental disability, military or veteran status, genetic information, or any other protected classification."",
+    ""CompanyInformation_Culture"": ""Equal employment opportunity includes but is not limited to, hiring, training, promotion, demotion, transfer, leaves of absence, and termination. Contextual AI takes allegations of discrimination, harassment, and retaliation seriously, and will promptly investigate when such behavior is reported."",
+    ""CompanyInformation_Values"": """"
+}"
+0,"{
+    ""job_posting_id"": """",
+    ""CompanyName"": ""Contextual AI"",
+    ""Location"": ""Mountain View, CA"",
+    ""Description"": ""We are seeking talented and motivated interns to join our AI Research team. As an AI Research Intern, you will work directly under the guidance of a research mentor, contributing to cutting-edge projects in the areas of artificial intelligence, and machine learning. This is an opportunity to gain hands-on experience with working on real-world applications and expand your knowledge while having the potential to transform and leave a lasting impact on our company's technology stack."",
+    ""Requirements_Essential"": ""Currently pursuing or recently completed a BS/MS/PhD degree in Computer Science, Artificial Intelligence, or a related field. Strong programming skills in languages such as Python, Rust or C++. Familiarity with machine learning frameworks and libraries, such as JAX or PyTorch. Solid understanding of fundamental ML concepts, algorithms, and techniques. Ability to analyze and interpret research papers and technical documentation. Excellent problem-solving and critical-thinking abilities. Strong written and verbal communication skills. Proactive and self-motivated, with the ability to work independently and in a team environment."",
+    ""Requirements_Preferred"": ""Prior experience in AI research or projects. Comfort with ambiguity and resilient when facing rapid change. Ability to communicate complex research in a clear, precise, and actionable manner. A strong interest in empirical research and for answering hard questions with research. Interpersonal experience: cross-group and cross-culture collaboration. Ability to stay in touch with the literature of a particular domain and has the ability to reproduce results if needed."",
+    ""AdditionalSkills"": """",
+    ""Compensation_SalaryRange"": ""$110,000-120,000"",
+    ""Compensation_Benefits"": """",
+    ""OtherInformation"": ""Equal employment opportunities provided to all qualified individuals without regard to race, color, religion, sex, gender identity, sexual orientation, pregnancy, age, national origin, physical or mental disability, military or veteran status, genetic information, or any other protected classification. Contextual AI takes allegations of discrimination, harassment, and retaliation seriously, and will promptly investigate when such behavior is reported."",
+    ""CompanyInformation_About"": """",
+    ""CompanyInformation_Culture"": """",
+    ""CompanyInformation_Values"": """"
+}"
+0,"{
+    ""job_posting_id"": ""12345"",
+    ""CompanyName"": ""ABC Company"",
+    ""Location"": ""New York, NY"",
+    ""Description"": ""We are seeking a talented individual to join our team."",
+    ""Requirements_Essential"": ""Bachelor's degree in Computer Science"",
+    ""Requirements_Preferred"": ""Master's degree in Business Administration"",
+    ""AdditionalSkills"": ""Strong communication skills"",
+    ""Compensation_SalaryRange"": ""$50,000 - $70,000"",
+    ""Compensation_Benefits"": ""Health insurance, 401k"",
+    ""OtherInformation"": """",
+    ""CompanyInformation_About"": ""ABC Company is a leading tech company in the industry."",
+    ""CompanyInformation_Culture"": ""We value teamwork and innovation."",
+    ""CompanyInformation_Values"": ""Integrity, Excellence, Customer Focus""
+}"
+0,"{
+    ""job_posting_id"": ""12345"",
+    ""CompanyName"": ""ABC Company"",
+    ""Location"": ""New York, NY"",
+    ""Description"": ""We are seeking a talented individual to join our team."",
+    ""Requirements_Essential"": ""Bachelor's degree in Computer Science"",
+    ""Requirements_Preferred"": ""Master's degree in Business Administration"",
+    ""AdditionalSkills"": ""Experience with data analysis"",
+    ""Compensation_SalaryRange"": ""$50,000 - $70,000"",
+    ""Compensation_Benefits"": ""Health insurance, 401k"",
+    ""OtherInformation"": """",
+    ""CompanyInformation_About"": ""ABC Company is a leading technology firm."",
+    ""CompanyInformation_Culture"": ""We promote a collaborative work environment."",
+    ""CompanyInformation_Values"": ""Integrity, Innovation, Teamwork""
+}"
+0,"{
+    ""job_posting_id"": ""12345"",
+    ""CompanyName"": ""ABC Company"",
+    ""Location"": ""New York, NY"",
+    ""Description"": ""We are seeking a talented individual to join our team."",
+    ""Requirements_Essential"": ""Bachelor's degree in Computer Science"",
+    ""Requirements_Preferred"": ""Master's degree in Business Administration"",
+    ""AdditionalSkills"": ""Experience with data analysis"",
+    ""Compensation_SalaryRange"": ""$50,000 - $70,000"",
+    ""Compensation_Benefits"": ""Health insurance, 401k"",
+    ""OtherInformation"": """",
+    ""CompanyInformation_About"": ""ABC Company is a leading technology firm."",
+    ""CompanyInformation_Culture"": ""We foster a collaborative and innovative work environment."",
+    ""CompanyInformation_Values"": ""Integrity, Excellence, Teamwork""
+}"
+0,"{
+    ""job_posting_id"": ""12345"",
+    ""CompanyName"": ""ABC Company"",
+    ""Location"": ""New York, NY"",
+    ""Description"": ""We are seeking a talented individual to join our team."",
+    ""Requirements_Essential"": ""Bachelor's degree in Computer Science"",
+    ""Requirements_Preferred"": ""Master's degree in Business Administration"",
+    ""AdditionalSkills"": ""Strong communication skills"",
+    ""Compensation_SalaryRange"": ""$50,000 - $70,000"",
+    ""Compensation_Benefits"": ""Health insurance, 401k"",
+    ""OtherInformation"": """",
+    ""CompanyInformation_About"": ""ABC Company is a leading technology firm."",
+    ""CompanyInformation_Culture"": ""We value teamwork and innovation."",
+    ""CompanyInformation_Values"": ""Integrity, Excellence, Customer Focus""
+}"
+0,"{
+    ""job_posting_id"": """",
+    ""CompanyName"": ""Contextual AI"",
+    ""Location"": ""Mountain View, CA"",
+    ""Description"": ""We are seeking talented and motivated interns to join our AI Research team. As an AI Research Intern, you will work directly under the guidance of a research mentor, contributing to cutting-edge projects in the areas of artificial intelligence, and machine learning. This is an opportunity to gain hands-on experience with working on real-world applications and expand your knowledge while having the potential to transform and leave a lasting impact on our company's technology stack."",
+    ""Requirements_Essential"": ""Currently pursuing or recently completed a BS/MS/PhD degree in Computer Science, Artificial Intelligence, or a related field. Strong programming skills in languages such as Python, Rust or C++. Familiarity with machine learning frameworks and libraries, such as JAX or PyTorch. Solid understanding of fundamental ML concepts, algorithms, and techniques. Ability to analyze and interpret research papers and technical documentation. Excellent problem-solving and critical-thinking abilities. Strong written and verbal communication skills. Proactive and self-motivated, with the ability to work independently and in a team environment."",
+    ""Requirements_Preferred"": ""Prior experience in AI research or projects. Comfort with ambiguity and resilient when facing rapid change. Ability to communicate complex research in a clear, precise, and actionable manner. A strong interest in empirical research and for answering hard questions with research. Interpersonal experience: cross-group and cross-culture collaboration. Ability to stay in touch with the literature of a particular domain and has the ability to reproduce results if needed."",
+    ""AdditionalSkills"": """",
+    ""Compensation_SalaryRange"": ""$110,000-120,000"",
+    ""Compensation_Benefits"": """",
+    ""OtherInformation"": ""Equal Employment: Contextual AI provides equal employment opportunities to all qualified individuals without regard to race, color, religion, sex, gender identity, sexual orientation, pregnancy, age, national origin, physical or mental disability, military or veteran status, genetic information, or any other protected classification. Equal employment opportunity includes but is not limited to, hiring, training, promotion, demotion, transfer, leaves of absence, and termination. Contextual AI takes allegations of discrimination, harassment, and retaliation seriously, and will promptly investigate when such behavior is reported."",
+    ""CompanyInformation_About"": """",
+    ""CompanyInformation_Culture"": """",
+    ""CompanyInformation_Values"": """"
+}"
+0,"{
+    ""job_posting_id"": """",
+    ""CompanyName"": ""Contextual AI"",
+    ""Location"": ""Mountain View, CA"",
+    ""Description"": ""We are seeking talented and motivated interns to join our AI Research team. As an AI Research Intern, you will work directly under the guidance of a research mentor, contributing to cutting-edge projects in the areas of artificial intelligence, and machine learning. This is an opportunity to gain hands-on experience with working on real-world applications and expand your knowledge while having the potential to transform and leave a lasting impact on our company's technology stack."",
+    ""Requirements_Essential"": ""Currently pursuing or recently completed a BS/MS/PhD degree in Computer Science, Artificial Intelligence, or a related field. Strong programming skills in languages such as Python, Rust or C++. Familiarity with machine learning frameworks and libraries, such as JAX or PyTorch. Solid understanding of fundamental ML concepts, algorithms, and techniques. Ability to analyze and interpret research papers and technical documentation. Excellent problem-solving and critical-thinking abilities. Strong written and verbal communication skills. Proactive and self-motivated, with the ability to work independently and in a team environment."",
+    ""Requirements_Preferred"": ""Prior experience in AI research or projects. Comfort with ambiguity and resilient when facing rapid change. Ability to communicate complex research in a clear, precise, and actionable manner. A strong interest in empirical research and for answering hard questions with research. Interpersonal experience: cross-group and cross-culture collaboration. Ability to stay in touch with the literature of a particular domain and has the ability to reproduce results if needed."",
+    ""AdditionalSkills"": """",
+    ""Compensation_SalaryRange"": ""$110,000-120,000"",
+    ""Compensation_Benefits"": """",
+    ""OtherInformation"": ""Equal employment opportunities provided to all qualified individuals without regard to race, color, religion, sex, gender identity, sexual orientation, pregnancy, age, national origin, physical or mental disability, military or veteran status, genetic information, or any other protected classification."",
+    ""CompanyInformation_About"": """",
+    ""CompanyInformation_Culture"": """",
+    ""CompanyInformation_Values"": """"
+}"
+0,"{
+    ""job_posting_id"": ""12345"",
+    ""CompanyName"": ""ABC Company"",
+    ""Location"": ""New York, NY"",
+    ""Description"": ""We are seeking a talented individual to join our team."",
+    ""Requirements_Essential"": ""Bachelor's degree in Computer Science"",
+    ""Requirements_Preferred"": ""Master's degree in Business Administration"",
+    ""AdditionalSkills"": ""Strong communication skills"",
+    ""Compensation_SalaryRange"": ""$50,000 - $70,000"",
+    ""Compensation_Benefits"": ""Health insurance, 401k"",
+    ""OtherInformation"": """",
+    ""CompanyInformation_About"": ""ABC Company is a leading technology firm."",
+    ""CompanyInformation_Culture"": ""We foster a collaborative and innovative work environment."",
+    ""CompanyInformation_Values"": ""Integrity, Excellence, Teamwork""
+}"
+0,"{
+    ""job_posting_id"": ""12345"",
+    ""CompanyName"": ""ABC Company"",
+    ""Location"": ""New York, NY"",
+    ""Description"": ""We are seeking a talented individual to join our team."",
+    ""Requirements_Essential"": ""Bachelor's degree in Computer Science"",
+    ""Requirements_Preferred"": ""Master's degree in Business Administration"",
+    ""AdditionalSkills"": ""Experience with data analysis"",
+    ""Compensation_SalaryRange"": ""$50,000 - $70,000"",
+    ""Compensation_Benefits"": ""Health insurance, 401k"",
+    ""OtherInformation"": """",
+    ""CompanyInformation_About"": ""ABC Company is a leading technology firm"",
+    ""CompanyInformation_Culture"": ""We value teamwork and innovation"",
+    ""CompanyInformation_Values"": ""Integrity, Excellence, Customer Focus""
+}"
+0,"{
+    ""job_posting_id"": """",
+    ""CompanyName"": ""ABC Company"",
+    ""Location"": ""New York, NY"",
+    ""Description"": ""We are seeking a talented individual to join our team as a software developer. The ideal candidate will have experience with Java, Python, and SQL."",
+    ""Requirements_Essential"": ""Bachelor's degree in Computer Science or related field, 2+ years of experience in software development"",
+    ""Requirements_Preferred"": ""Experience with cloud technologies, such as AWS or Azure"",
+    ""AdditionalSkills"": ""Strong problem-solving skills, excellent communication skills"",
+    ""Compensation_SalaryRange"": ""$80,000 - $100,000"",
+    ""Compensation_Benefits"": ""Health insurance, 401k matching"",
+    ""OtherInformation"": """",
+    ""CompanyInformation_About"": ""ABC Company is a leading software development firm that specializes in creating innovative solutions for our clients."",
+    ""CompanyInformation_Culture"": ""We have a collaborative and inclusive work environment where employees are encouraged to share their ideas and grow professionally."",
+    ""CompanyInformation_Values"": ""Integrity, Innovation, Teamwork""
+}"
+0,"{
+    ""job_posting_id"": """",
+    ""CompanyName"": ""Contextual AI"",
+    ""Location"": ""Mountain View, CA"",
+    ""Description"": ""We are seeking talented and motivated interns to join our AI Research team. As an AI Research Intern, you will work directly under the guidance of a research mentor, contributing to cutting-edge projects in the areas of artificial intelligence, and machine learning. This is an opportunity to gain hands-on experience with working on real-world applications and expand your knowledge while having the potential to transform and leave a lasting impact on our company's technology stack."",
+    ""Requirements_Essential"": ""Currently pursuing or recently completed a BS/MS/PhD degree in Computer Science, Artificial Intelligence, or a related field. Strong programming skills in languages such as Python, Rust or C++. Familiarity with machine learning frameworks and libraries, such as JAX or PyTorch. Solid understanding of fundamental ML concepts, algorithms, and techniques. Ability to analyze and interpret research papers and technical documentation. Excellent problem-solving and critical-thinking abilities. Strong written and verbal communication skills. Proactive and self-motivated, with the ability to work independently and in a team environment."",
+    ""Requirements_Preferred"": ""Prior experience in AI research or projects. Comfort with ambiguity and resilient when facing rapid change. Ability to communicate complex research in a clear, precise, and actionable manner. A strong interest in empirical research and for answering hard questions with research. Interpersonal experience: cross-group and cross-culture collaboration. Ability to stay in touch with the literature of a particular domain and has the ability to reproduce results if needed."",
+    ""AdditionalSkills"": """",
+    ""Compensation_SalaryRange"": ""$110,000-120,000"",
+    ""Compensation_Benefits"": """",
+    ""OtherInformation"": ""Equal employment opportunities provided to all qualified individuals without regard to race, color, religion, sex, gender identity, sexual orientation, pregnancy, age, national origin, physical or mental disability, military or veteran status, genetic information, or any other protected classification."",
+    ""CompanyInformation_About"": """",
+    ""CompanyInformation_Culture"": """",
+    ""CompanyInformation_Values"": """"
+}"
+0,"{
+    ""job_posting_id"": """",
+    ""CompanyName"": ""Contextual AI"",
+    ""Location"": ""Mountain View, CA"",
+    ""Description"": ""We are seeking talented and motivated interns to join our AI Research team. As an AI Research Intern, you will work directly under the guidance of a research mentor, contributing to cutting-edge projects in the areas of artificial intelligence, and machine learning. This is an opportunity to gain hands-on experience with working on real-world applications and expand your knowledge while having the potential to transform and leave a lasting impact on our company's technology stack."",
+    ""Requirements_Essential"": ""Currently pursuing or recently completed a BS/MS/PhD degree in Computer Science, Artificial Intelligence, or a related field. Strong programming skills in languages such as Python, Rust or C++. Familiarity with machine learning frameworks and libraries, such as JAX or PyTorch. Solid understanding of fundamental ML concepts, algorithms, and techniques. Ability to analyze and interpret research papers and technical documentation. Excellent problem-solving and critical-thinking abilities. Strong written and verbal communication skills. Proactive and self-motivated, with the ability to work independently and in a team environment."",
+    ""Requirements_Preferred"": ""Prior experience in AI research or projects. Comfort with ambiguity and resilient when facing rapid change. Ability to communicate complex research in a clear, precise, and actionable manner. A strong interest in empirical research and for answering hard questions with research. Interpersonal experience: cross-group and cross-culture collaboration. Ability to stay in touch with the literature of a particular domain and has the ability to reproduce results if needed."",
+    ""AdditionalSkills"": """",
+    ""Compensation_SalaryRange"": ""$110,000-120,000"",
+    ""Compensation_Benefits"": ""actual compensation will be determined based on experience, location, and other factors permitted by law."",
+    ""OtherInformation"": """",
+    ""CompanyInformation_About"": """",
+    ""CompanyInformation_Culture"": """",
+    ""CompanyInformation_Values"": """"
+}"
+0,"{
+    ""job_posting_id"": """",
+    ""CompanyName"": ""Contextual AI"",
+    ""Location"": ""Mountain View, CA"",
+    ""Description"": ""We are seeking talented and motivated interns to join our AI Research team. As an AI Research Intern, you will work directly under the guidance of a research mentor, contributing to cutting-edge projects in the areas of artificial intelligence, and machine learning. This is an opportunity to gain hands-on experience with working on real-world applications and expand your knowledge while having the potential to transform and leave a lasting impact on our company's technology stack."",
+    ""Requirements_Essential"": ""Currently pursuing or recently completed a BS/MS/PhD degree in Computer Science, Artificial Intelligence, or a related field. Strong programming skills in languages such as Python, Rust or C++. Familiarity with machine learning frameworks and libraries, such as JAX or PyTorch. Solid understanding of fundamental ML concepts, algorithms, and techniques. Ability to analyze and interpret research papers and technical documentation. Excellent problem-solving and critical-thinking abilities. Strong written and verbal communication skills. Proactive and self-motivated, with the ability to work independently and in a team environment."",
+    ""Requirements_Preferred"": ""Prior experience in AI research or projects. Comfort with ambiguity and resilient when facing rapid change. Ability to communicate complex research in a clear, precise, and actionable manner. A strong interest in empirical research and for answering hard questions with research. Interpersonal experience: cross-group and cross-culture collaboration. Ability to stay in touch with the literature of a particular domain and has the ability to reproduce results if needed."",
+    ""AdditionalSkills"": """",
+    ""Compensation_SalaryRange"": ""$110,000-120,000"",
+    ""Compensation_Benefits"": ""actual compensation will be determined based on experience, location, and other factors permitted by law."",
+    ""OtherInformation"": """",
+    ""CompanyInformation_About"": """",
+    ""CompanyInformation_Culture"": """",
+    ""CompanyInformation_Values"": """"
+}"
+0,"{
+    ""job_posting_id"": """",
+    ""CompanyName"": ""Contextual AI"",
+    ""Location"": ""Mountain View, CA"",
+    ""Description"": ""We are seeking talented and motivated interns to join our AI Research team. As an AI Research Intern, you will work directly under the guidance of a research mentor, contributing to cutting-edge projects in the areas of artificial intelligence, and machine learning. This is an opportunity to gain hands-on experience with working on real-world applications and expand your knowledge while having the potential to transform and leave a lasting impact on our company's technology stack."",
+    ""Requirements_Essential"": ""Currently pursuing or recently completed a BS/MS/PhD degree in Computer Science, Artificial Intelligence, or a related field. Strong programming skills in languages such as Python, Rust or C++. Familiarity with machine learning frameworks and libraries, such as JAX or PyTorch. Solid understanding of fundamental ML concepts, algorithms, and techniques. Ability to analyze and interpret research papers and technical documentation. Excellent problem-solving and critical-thinking abilities. Strong written and verbal communication skills. Proactive and self-motivated, with the ability to work independently and in a team environment."",
+    ""Requirements_Preferred"": ""Prior experience in AI research or projects. Comfort with ambiguity and resilient when facing rapid change. Ability to communicate complex research in a clear, precise, and actionable manner. A strong interest in empirical research and for answering hard questions with research. Interpersonal experience: cross-group and cross-culture collaboration. Ability to stay in touch with the literature of a particular domain and has the ability to reproduce results if needed."",
+    ""AdditionalSkills"": """",
+    ""Compensation_SalaryRange"": ""$110,000-120,000"",
+    ""Compensation_Benefits"": """",
+    ""OtherInformation"": ""Equal employment opportunities provided to all qualified individuals without regard to race, color, religion, sex, gender identity, sexual orientation, pregnancy, age, national origin, physical or mental disability, military or veteran status, genetic information, or any other protected classification."",
+    ""CompanyInformation_About"": """",
+    ""CompanyInformation_Culture"": """",
+    ""CompanyInformation_Values"": """"
+}"
+0,"{
+    ""job_posting_id"": """",
+    ""CompanyName"": ""Contextual AI"",
+    ""Location"": ""Mountain View, CA"",
+    ""Description"": ""We are seeking talented and motivated interns to join our AI Research team. As an AI Research Intern, you will work directly under the guidance of a research mentor, contributing to cutting-edge projects in the areas of artificial intelligence, and machine learning. This is an opportunity to gain hands-on experience with working on real-world applications and expand your knowledge while having the potential to transform and leave a lasting impact on our company's technology stack."",
+    ""Requirements_Essential"": ""Currently pursuing or recently completed a BS/MS/PhD degree in Computer Science, Artificial Intelligence, or a related field. Strong programming skills in languages such as Python, Rust or C++. Familiarity with machine learning frameworks and libraries, such as JAX or PyTorch. Solid understanding of fundamental ML concepts, algorithms, and techniques. Ability to analyze and interpret research papers and technical documentation. Excellent problem-solving and critical-thinking abilities. Strong written and verbal communication skills. Proactive and self-motivated, with the ability to work independently and in a team environment."",
+    ""Requirements_Preferred"": ""Prior experience in AI research or projects. Comfort with ambiguity and resilient when facing rapid change. Ability to communicate complex research in a clear, precise, and actionable manner. A strong interest in empirical research and for answering hard questions with research. Interpersonal experience: cross-group and cross-culture collaboration. Ability to stay in touch with the literature of a particular domain and has the ability to reproduce results if needed."",
+    ""AdditionalSkills"": """",
+    ""Compensation_SalaryRange"": ""$110,000-120,000"",
+    ""Compensation_Benefits"": """",
+    ""OtherInformation"": ""Equal Employment: Contextual AI provides equal employment opportunities to all qualified individuals without regard to race, color, religion, sex, gender identity, sexual orientation, pregnancy, age, national origin, physical or mental disability, military or veteran status, genetic information, or any other protected classification. Equal employment opportunity includes but is not limited to, hiring, training, promotion, demotion, transfer, leaves of absence, and termination. Contextual AI takes allegations of discrimination, harassment, and retaliation seriously, and will promptly investigate when such behavior is reported."",
+    ""CompanyInformation_About"": """",
+    ""CompanyInformation_Culture"": """",
+    ""CompanyInformation_Values"": """"
+}"
+0,"{
+    ""job_posting_id"": """",
+    ""CompanyName"": ""Contextual AI"",
+    ""Location"": ""Mountain View, CA"",
+    ""Description"": ""We are seeking talented and motivated interns to join our AI Research team. As an AI Research Intern, you will work directly under the guidance of a research mentor, contributing to cutting-edge projects in the areas of artificial intelligence, and machine learning. This is an opportunity to gain hands-on experience with working on real-world applications and expand your knowledge while having the potential to transform and leave a lasting impact on our company's technology stack."",
+    ""Requirements_Essential"": ""Currently pursuing or recently completed a BS/MS/PhD degree in Computer Science, Artificial Intelligence, or a related field. Strong programming skills in languages such as Python, Rust or C++. Familiarity with machine learning frameworks and libraries, such as JAX or PyTorch. Solid understanding of fundamental ML concepts, algorithms, and techniques. Ability to analyze and interpret research papers and technical documentation. Excellent problem-solving and critical-thinking abilities. Strong written and verbal communication skills. Proactive and self-motivated, with the ability to work independently and in a team environment."",
+    ""Requirements_Preferred"": ""Prior experience in AI research or projects. Comfort with ambiguity and resilient when facing rapid change. Ability to communicate complex research in a clear, precise, and actionable manner. A strong interest in empirical research and for answering hard questions with research. Interpersonal experience: cross-group and cross-culture collaboration. Ability to stay in touch with the literature of a particular domain and has the ability to reproduce results if needed."",
+    ""Compensation_SalaryRange"": ""$110,000-120,000"",
+    ""Compensation_Benefits"": """",
+    ""OtherInformation"": ""Equal employment opportunities provided to all qualified individuals without regard to race, color, religion, sex, gender identity, sexual orientation, pregnancy, age, national origin, physical or mental disability, military or veteran status, genetic information, or any other protected classification."",
+    ""CompanyInformation_About"": """",
+    ""CompanyInformation_Culture"": """",
+    ""CompanyInformation_Values"": """"
+}"
+0,"{
+    ""job_posting_id"": ""12345"",
+    ""CompanyName"": ""ABC Company"",
+    ""Location"": ""New York, NY"",
+    ""Description"": ""We are seeking a talented individual to join our team."",
+    ""Requirements_Essential"": ""Bachelor's degree in Computer Science"",
+    ""Requirements_Preferred"": ""Master's degree in Business Administration"",
+    ""AdditionalSkills"": ""Experience with data analysis"",
+    ""Compensation_SalaryRange"": ""$50,000 - $70,000"",
+    ""Compensation_Benefits"": ""Health insurance, 401k"",
+    ""OtherInformation"": """",
+    ""CompanyInformation_About"": ""ABC Company is a leading technology firm."",
+    ""CompanyInformation_Culture"": ""We value teamwork and innovation."",
+    ""CompanyInformation_Values"": ""Integrity, Excellence, Collaboration""
+}"
+0,"{
+    ""job_posting_id"": """",
+    ""CompanyName"": ""Contextual AI"",
+    ""Location"": ""Mountain View, CA"",
+    ""Description"": ""We are seeking talented and motivated interns to join our AI Research team. As an AI Research Intern, you will work directly under the guidance of a research mentor, contributing to cutting-edge projects in the areas of artificial intelligence, and machine learning. This is an opportunity to gain hands-on experience with working on real-world applications and expand your knowledge while having the potential to transform and leave a lasting impact on our company's technology stack."",
+    ""Requirements_Essential"": ""Currently pursuing or recently completed a BS/MS/PhD degree in Computer Science, Artificial Intelligence, or a related field. Strong programming skills in languages such as Python, Rust or C++. Familiarity with machine learning frameworks and libraries, such as JAX or PyTorch. Solid understanding of fundamental ML concepts, algorithms, and techniques. Ability to analyze and interpret research papers and technical documentation. Excellent problem-solving and critical-thinking abilities. Strong written and verbal communication skills. Proactive and self-motivated, with the ability to work independently and in a team environment."",
+    ""Requirements_Preferred"": ""Prior experience in AI research or projects. Comfort with ambiguity and resilient when facing rapid change. Ability to communicate complex research in a clear, precise, and actionable manner. A strong interest in empirical research and for answering hard questions with research. Interpersonal experience: cross-group and cross-culture collaboration. Ability to stay in touch with the literature of a particular domain and has the ability to reproduce results if needed."",
+    ""AdditionalSkills"": """",
+    ""Compensation_SalaryRange"": ""$110,000-120,000"",
+    ""Compensation_Benefits"": """",
+    ""OtherInformation"": ""Equal Employment: Contextual AI provides equal employment opportunities to all qualified individuals without regard to race, color, religion, sex, gender identity, sexual orientation, pregnancy, age, national origin, physical or mental disability, military or veteran status, genetic information, or any other protected classification. Equal employment opportunity includes but is not limited to, hiring, training, promotion, demotion, transfer, leaves of absence, and termination. Contextual AI takes allegations of discrimination, harassment, and retaliation seriously, and will promptly investigate when such behavior is reported."",
+    ""CompanyInformation_About"": """",
+    ""CompanyInformation_Culture"": """",
+    ""CompanyInformation_Values"": """"
+}"
+0,"{
+    ""job_posting_id"": """",
+    ""CompanyName"": ""Contextual AI"",
+    ""Location"": ""Mountain View, CA"",
+    ""Description"": ""We are seeking talented and motivated interns to join our AI Research team. As an AI Research Intern, you will work directly under the guidance of a research mentor, contributing to cutting-edge projects in the areas of artificial intelligence, and machine learning. This is an opportunity to gain hands-on experience with working on real-world applications and expand your knowledge while having the potential to transform and leave a lasting impact on our company's technology stack."",
+    ""Requirements_Essential"": ""Currently pursuing or recently completed a BS/MS/PhD degree in Computer Science, Artificial Intelligence, or a related field. Strong programming skills in languages such as Python, Rust or C++. Familiarity with machine learning frameworks and libraries, such as JAX or PyTorch. Solid understanding of fundamental ML concepts, algorithms, and techniques. Ability to analyze and interpret research papers and technical documentation. Excellent problem-solving and critical-thinking abilities. Strong written and verbal communication skills. Proactive and self-motivated, with the ability to work independently and in a team environment."",
+    ""Requirements_Preferred"": ""Prior experience in AI research or projects. Comfort with ambiguity and resilient when facing rapid change. Ability to communicate complex research in a clear, precise, and actionable manner. A strong interest in empirical research and for answering hard questions with research. Interpersonal experience: cross-group and cross-culture collaboration. Ability to stay in touch with the literature of a particular domain and has the ability to reproduce results if needed."",
+    ""AdditionalSkills"": """",
+    ""Compensation_SalaryRange"": ""$110,000-120,000"",
+    ""Compensation_Benefits"": """",
+    ""OtherInformation"": """",
+    ""CompanyInformation_About"": """",
+    ""CompanyInformation_Culture"": """",
+    ""CompanyInformation_Values"": """"
+}"
+0,"{
+    ""job_posting_id"": """",
+    ""CompanyName"": """",
+    ""Location"": """",
+    ""Description"": """",
+    ""Requirements_Essential"": """",
+    ""Requirements_Preferred"": """",
+    ""AdditionalSkills"": """",
+    ""Compensation_SalaryRange"": """",
+    ""Compensation_Benefits"": """",
+    ""OtherInformation"": """",
+    ""CompanyInformation_About"": """",
+    ""CompanyInformation_Culture"": """",
+    ""CompanyInformation_Values"": """"
+}"
+0,"{
+    ""job_posting_id"": """",
+    ""CompanyName"": """",
+    ""Location"": """",
+    ""Description"": """",
+    ""Requirements_Essential"": """",
+    ""Requirements_Preferred"": """",
+    ""AdditionalSkills"": """",
+    ""Compensation_SalaryRange"": """",
+    ""Compensation_Benefits"": """",
+    ""OtherInformation"": """",
+    ""CompanyInformation_About"": """",
+    ""CompanyInformation_Culture"": """",
+    ""CompanyInformation_Values"": """"
+}"
+0,"{
+    ""job_posting_id"": """",
+    ""CompanyName"": """",
+    ""Location"": """",
+    ""Description"": """",
+    ""Requirements_Essential"": """",
+    ""Requirements_Preferred"": """",
+    ""AdditionalSkills"": """",
+    ""Compensation_SalaryRange"": """",
+    ""Compensation_Benefits"": """",
+    ""OtherInformation"": """",
+    ""CompanyInformation_About"": """",
+    ""CompanyInformation_Culture"": """",
+    ""CompanyInformation_Values"": """"
+}"
+0,"{
+    ""job_posting_id"": """",
+    ""CompanyName"": """",
+    ""Location"": """",
+    ""Description"": """",
+    ""Requirements_Essential"": """",
+    ""Requirements_Preferred"": """",
+    ""AdditionalSkills"": """",
+    ""Compensation_SalaryRange"": """",
+    ""Compensation_Benefits"": """",
+    ""OtherInformation"": """",
+    ""CompanyInformation_About"": """",
+    ""CompanyInformation_Culture"": """",
+    ""CompanyInformation_Values"": """"
+}"
+0,"{
+    ""job_posting_id"": """",
+    ""CompanyName"": """",
+    ""Location"": """",
+    ""Description"": """",
+    ""Requirements_Essential"": """",
+    ""Requirements_Preferred"": """",
+    ""AdditionalSkills"": """",
+    ""Compensation_SalaryRange"": """",
+    ""Compensation_Benefits"": """",
+    ""OtherInformation"": """",
+    ""CompanyInformation_About"": """",
+    ""CompanyInformation_Culture"": """",
+    ""CompanyInformation_Values"": """"
+}"
+0,"{
+    ""job_posting_id"": """",
+    ""CompanyName"": ""Contextual AI"",
+    ""Location"": ""Mountain View, CA"",
+    ""Description"": ""We are seeking talented and motivated interns to join our AI Research team. As an AI Research Intern, you will work directly under the guidance of a research mentor, contributing to cutting-edge projects in the areas of artificial intelligence, and machine learning. This is an opportunity to gain hands-on experience with working on real-world applications and expand your knowledge while having the potential to transform and leave a lasting impact on our company's technology stack."",
+    ""Requirements_Essential"": ""Currently pursuing or recently completed a BS/MS/PhD degree in Computer Science, Artificial Intelligence, or a related field. Strong programming skills in languages such as Python, Rust or C++. Familiarity with machine learning frameworks and libraries, such as JAX or PyTorch. Solid understanding of fundamental ML concepts, algorithms, and techniques. Ability to analyze and interpret research papers and technical documentation. Excellent problem-solving and critical-thinking abilities. Strong written and verbal communication skills. Proactive and self-motivated, with the ability to work independently and in a team environment."",
+    ""Requirements_Preferred"": ""Prior experience in AI research or projects. Comfort with ambiguity and resilient when facing rapid change. Ability to communicate complex research in a clear, precise, and actionable manner. A strong interest in empirical research and for answering hard questions with research. Interpersonal experience: cross-group and cross-culture collaboration. Ability to stay in touch with the literature of a particular domain and has the ability to reproduce results if needed."",
+    ""AdditionalSkills"": """",
+    ""Compensation_SalaryRange"": ""$110,000-120,000"",
+    ""Compensation_Benefits"": """",
+    ""OtherInformation"": ""Equal Employment: Contextual AI provides equal employment opportunities to all qualified individuals without regard to race, color, religion, sex, gender identity, sexual orientation, pregnancy, age, national origin, physical or mental disability, military or veteran status, genetic information, or any other protected classification. Equal employment opportunity includes but is not limited to, hiring, training, promotion, demotion, transfer, leaves of absence, and termination. Contextual AI takes allegations of discrimination, harassment, and retaliation seriously, and will promptly investigate when such behavior is reported."",
+    ""CompanyInformation_About"": """",
+    ""CompanyInformation_Culture"": """",
+    ""CompanyInformation_Values"": """"
+}"
+0,"{
+    ""job_posting_id"": """",
+    ""CompanyName"": ""Contextual AI"",
+    ""Location"": ""Mountain View, CA"",
+    ""Description"": ""We are seeking talented and motivated interns to join our AI Research team. As an AI Research Intern, you will work directly under the guidance of a research mentor, contributing to cutting-edge projects in the areas of artificial intelligence, and machine learning. This is an opportunity to gain hands-on experience with working on real-world applications and expand your knowledge while having the potential to transform and leave a lasting impact on our company's technology stack."",
+    ""Requirements_Essential"": ""Currently pursuing or recently completed a BS/MS/PhD degree in Computer Science, Artificial Intelligence, or a related field. Strong programming skills in languages such as Python, Rust or C++. Familiarity with machine learning frameworks and libraries, such as JAX or PyTorch. Solid understanding of fundamental ML concepts, algorithms, and techniques. Ability to analyze and interpret research papers and technical documentation. Excellent problem-solving and critical-thinking abilities. Strong written and verbal communication skills. Proactive and self-motivated, with the ability to work independently and in a team environment."",
+    ""Requirements_Preferred"": ""Prior experience in AI research or projects. Comfort with ambiguity and resilient when facing rapid change. Ability to communicate complex research in a clear, precise, and actionable manner. A strong interest in empirical research and for answering hard questions with research. Interpersonal experience: cross-group and cross-culture collaboration. Ability to stay in touch with the literature of a particular domain and has the ability to reproduce results if needed."",
+    ""AdditionalSkills"": """",
+    ""Compensation_SalaryRange"": ""$110,000-120,000"",
+    ""Compensation_Benefits"": """",
+    ""OtherInformation"": ""Equal employment opportunities provided to all qualified individuals without regard to race, color, religion, sex, gender identity, sexual orientation, pregnancy, age, national origin, physical or mental disability, military or veteran status, genetic information, or any other protected classification."",
+    ""CompanyInformation_About"": """",
+    ""CompanyInformation_Culture"": """",
+    ""CompanyInformation_Values"": """"
+}"
+0,"{
+    ""job_posting_id"": """",
+    ""CompanyName"": """",
+    ""Location"": """",
+    ""Description"": """",
+    ""Requirements_Essential"": """",
+    ""Requirements_Preferred"": """",
+    ""AdditionalSkills"": """",
+    ""Compensation_SalaryRange"": """",
+    ""Compensation_Benefits"": """",
+    ""OtherInformation"": """",
+    ""CompanyInformation_About"": """",
+    ""CompanyInformation_Culture"": """",
+    ""CompanyInformation_Values"": """"
+}"
+0,"{
+    ""job_posting_id"": """",
+    ""CompanyName"": """",
+    ""Location"": """",
+    ""Description"": """",
+    ""Requirements_Essential"": """",
+    ""Requirements_Preferred"": """",
+    ""AdditionalSkills"": """",
+    ""Compensation_SalaryRange"": """",
+    ""Compensation_Benefits"": """",
+    ""OtherInformation"": """",
+    ""CompanyInformation_About"": """",
+    ""CompanyInformation_Culture"": """",
+    ""CompanyInformation_Values"": """"
+}"
+0,"{
+    ""job_posting_id"": """",
+    ""CompanyName"": ""Contextual AI"",
+    ""Location"": ""Mountain View, CA"",
+    ""Description"": ""We are seeking talented and motivated interns to join our AI Research team. As an AI Research Intern, you will work directly under the guidance of a research mentor, contributing to cutting-edge projects in the areas of artificial intelligence, and machine learning. This is an opportunity to gain hands-on experience with working on real-world applications and expand your knowledge while having the potential to transform and leave a lasting impact on our company's technology stack."",
+    ""Requirements_Essential"": ""Currently pursuing or recently completed a BS/MS/PhD degree in Computer Science, Artificial Intelligence, or a related field. Strong programming skills in languages such as Python, Rust or C++. Familiarity with machine learning frameworks and libraries, such as JAX or PyTorch. Solid understanding of fundamental ML concepts, algorithms, and techniques. Ability to analyze and interpret research papers and technical documentation. Excellent problem-solving and critical-thinking abilities. Strong written and verbal communication skills. Proactive and self-motivated, with the ability to work independently and in a team environment."",
+    ""Requirements_Preferred"": ""Prior experience in AI research or projects. Comfort with ambiguity and resilient when facing rapid change. Ability to communicate complex research in a clear, precise, and actionable manner. A strong interest in empirical research and for answering hard questions with research. Interpersonal experience: cross-group and cross-culture collaboration. Ability to stay in touch with the literature of a particular domain and has the ability to reproduce results if needed."",
+    ""AdditionalSkills"": """",
+    ""Compensation_SalaryRange"": ""$110,000-120,000"",
+    ""Compensation_Benefits"": """",
+    ""OtherInformation"": ""Equal employment opportunities provided to all qualified individuals without regard to race, color, religion, sex, gender identity, sexual orientation, pregnancy, age, national origin, physical or mental disability, military or veteran status, genetic information, or any other protected classification."",
+    ""CompanyInformation_About"": """",
+    ""CompanyInformation_Culture"": """",
+    ""CompanyInformation_Values"": """"
+}"
+0,"{
+    ""job_posting_id"": """",
+    ""CompanyName"": ""Contextual AI"",
+    ""Location"": ""Mountain View, CA"",
+    ""Description"": ""We are seeking talented and motivated interns to join our AI Research team. As an AI Research Intern, you will work directly under the guidance of a research mentor, contributing to cutting-edge projects in the areas of artificial intelligence, and machine learning. This is an opportunity to gain hands-on experience with working on real-world applications and expand your knowledge while having the potential to transform and leave a lasting impact on our company's technology stack."",
+    ""Requirements_Essential"": ""Currently pursuing or recently completed a BS/MS/PhD degree in Computer Science, Artificial Intelligence, or a related field. Strong programming skills in languages such as Python, Rust or C++. Familiarity with machine learning frameworks and libraries, such as JAX or PyTorch. Solid understanding of fundamental ML concepts, algorithms, and techniques. Ability to analyze and interpret research papers and technical documentation. Excellent problem-solving and critical-thinking abilities. Strong written and verbal communication skills. Proactive and self-motivated, with the ability to work independently and in a team environment."",
+    ""Requirements_Preferred"": ""Prior experience in AI research or projects. Comfort with ambiguity and resilient when facing rapid change. Ability to communicate complex research in a clear, precise, and actionable manner. A strong interest in empirical research and for answering hard questions with research. Interpersonal experience: cross-group and cross-culture collaboration. Ability to stay in touch with the literature of a particular domain and has the ability to reproduce results if needed."",
+    ""AdditionalSkills"": """",
+    ""Compensation_SalaryRange"": ""$110,000-120,000"",
+    ""Compensation_Benefits"": """",
+    ""OtherInformation"": """",
+    ""CompanyInformation_About"": """",
+    ""CompanyInformation_Culture"": """",
+    ""CompanyInformation_Values"": """"
+}"
+0,"{
+    ""job_posting_id"": ""12345"",
+    ""CompanyName"": ""ABC Company"",
+    ""Location"": ""New York, NY"",
+    ""Description"": ""We are seeking a talented individual to join our team."",
+    ""Requirements_Essential"": ""Bachelor's degree in related field"",
+    ""Requirements_Preferred"": ""Master's degree in related field"",
+    ""AdditionalSkills"": ""Experience with XYZ software"",
+    ""Compensation_SalaryRange"": ""$50,000 - $70,000"",
+    ""Compensation_Benefits"": ""Health insurance, 401k"",
+    ""OtherInformation"": """",
+    ""CompanyInformation_About"": ""ABC Company is a leading provider of innovative solutions."",
+    ""CompanyInformation_Culture"": ""We foster a collaborative and inclusive work environment."",
+    ""CompanyInformation_Values"": ""Integrity, Innovation, Excellence""
+}"
+0,"{
+    ""job_posting_id"": """",
+    ""CompanyName"": ""Contextual AI"",
+    ""Location"": ""Mountain View, CA"",
+    ""Description"": ""We are seeking talented and motivated interns to join our AI Research team. As an AI Research Intern, you will work directly under the guidance of a research mentor, contributing to cutting-edge projects in the areas of artificial intelligence, and machine learning. This is an opportunity to gain hands-on experience with working on real-world applications and expand your knowledge while having the potential to transform and leave a lasting impact on our company's technology stack."",
+    ""Requirements_Essential"": ""Currently pursuing or recently completed a BS/MS/PhD degree in Computer Science, Artificial Intelligence, or a related field. Strong programming skills in languages such as Python, Rust or C++. Familiarity with machine learning frameworks and libraries, such as JAX or PyTorch. Solid understanding of fundamental ML concepts, algorithms, and techniques. Ability to analyze and interpret research papers and technical documentation. Excellent problem-solving and critical-thinking abilities. Strong written and verbal communication skills. Proactive and self-motivated, with the ability to work independently and in a team environment."",
+    ""Requirements_Preferred"": ""Prior experience in AI research or projects. Comfort with ambiguity and resilient when facing rapid change. Ability to communicate complex research in a clear, precise, and actionable manner. A strong interest in empirical research and for answering hard questions with research. Interpersonal experience: cross-group and cross-culture collaboration. Ability to stay in touch with the literature of a particular domain and has the ability to reproduce results if needed."",
+    ""AdditionalSkills"": """",
+    ""Compensation_SalaryRange"": ""$110,000-120,000"",
+    ""Compensation_Benefits"": """",
+    ""OtherInformation"": """",
+    ""CompanyInformation_About"": """",
+    ""CompanyInformation_Culture"": """",
+    ""CompanyInformation_Values"": """"
+}"
+0,"{
+    ""job_posting_id"": """",
+    ""CompanyName"": ""Contextual AI"",
+    ""Location"": ""Mountain View, CA"",
+    ""Description"": ""We are seeking talented and motivated interns to join our AI Research team. As an AI Research Intern, you will work directly under the guidance of a research mentor, contributing to cutting-edge projects in the areas of artificial intelligence, and machine learning. This is an opportunity to gain hands-on experience with working on real-world applications and expand your knowledge while having the potential to transform and leave a lasting impact on our company's technology stack."",
+    ""Requirements_Essential"": ""Currently pursuing or recently completed a BS/MS/PhD degree in Computer Science, Artificial Intelligence, or a related field. Strong programming skills in languages such as Python, Rust or C++. Familiarity with machine learning frameworks and libraries, such as JAX or PyTorch. Solid understanding of fundamental ML concepts, algorithms, and techniques. Ability to analyze and interpret research papers and technical documentation. Excellent problem-solving and critical-thinking abilities. Strong written and verbal communication skills. Proactive and self-motivated, with the ability to work independently and in a team environment."",
+    ""Requirements_Preferred"": ""Prior experience in AI research or projects. Comfort with ambiguity and resilient when facing rapid change. Ability to communicate complex research in a clear, precise, and actionable manner. A strong interest in empirical research and for answering hard questions with research. Interpersonal experience: cross-group and cross-culture collaboration. Ability to stay in touch with the literature of a particular domain and has the ability to reproduce results if needed."",
+    ""AdditionalSkills"": """",
+    ""Compensation_SalaryRange"": ""$110,000-120,000"",
+    ""Compensation_Benefits"": """",
+    ""OtherInformation"": """",
+    ""CompanyInformation_About"": """",
+    ""CompanyInformation_Culture"": """",
+    ""CompanyInformation_Values"": """"
+}"
+0,"{
+    ""job_posting_id"": """",
+    ""CompanyName"": """",
+    ""Location"": """",
+    ""Description"": """",
+    ""Requirements_Essential"": """",
+    ""Requirements_Preferred"": """",
+    ""AdditionalSkills"": """",
+    ""Compensation_SalaryRange"": """",
+    ""Compensation_Benefits"": """",
+    ""OtherInformation"": """",
+    ""CompanyInformation_About"": """",
+    ""CompanyInformation_Culture"": """",
+    ""CompanyInformation_Values"": """"
+}"
+0,"{
+    ""job_posting_id"": """",
+    ""CompanyName"": ""Contextual AI"",
+    ""Location"": ""Mountain View, CA"",
+    ""Description"": ""We are seeking talented and motivated interns to join our AI Research team. As an AI Research Intern, you will work directly under the guidance of a research mentor, contributing to cutting-edge projects in the areas of artificial intelligence, and machine learning. This is an opportunity to gain hands-on experience with working on real-world applications and expand your knowledge while having the potential to transform and leave a lasting impact on our company's technology stack."",
+    ""Requirements_Essential"": ""Currently pursuing or recently completed a BS/MS/PhD degree in Computer Science, Artificial Intelligence, or a related field. Strong programming skills in languages such as Python, Rust or C++. Familiarity with machine learning frameworks and libraries, such as JAX or PyTorch. Solid understanding of fundamental ML concepts, algorithms, and techniques. Ability to analyze and interpret research papers and technical documentation. Excellent problem-solving and critical-thinking abilities. Strong written and verbal communication skills. Proactive and self-motivated, with the ability to work independently and in a team environment."",
+    ""Requirements_Preferred"": ""Prior experience in AI research or projects. Comfort with ambiguity and resilient when facing rapid change. Ability to communicate complex research in a clear, precise, and actionable manner. A strong interest in empirical research and for answering hard questions with research. Interpersonal experience: cross-group and cross-culture collaboration. Ability to stay in touch with the literature of a particular domain and has the ability to reproduce results if needed."",
+    ""AdditionalSkills"": """",
+    ""Compensation_SalaryRange"": ""$110,000-120,000"",
+    ""Compensation_Benefits"": """",
+    ""OtherInformation"": ""Equal employment opportunities provided to all qualified individuals without regard to race, color, religion, sex, gender identity, sexual orientation, pregnancy, age, national origin, physical or mental disability, military or veteran status, genetic information, or any other protected classification."",
+    ""CompanyInformation_About"": """",
+    ""CompanyInformation_Culture"": """",
+    ""CompanyInformation_Values"": """"
+}"
+0,"{
+    ""job_posting_id"": """",
+    ""CompanyName"": ""Contextual AI"",
+    ""Location"": ""Mountain View, CA"",
+    ""Description"": ""We are seeking talented and motivated interns to join our AI Research team. As an AI Research Intern, you will work directly under the guidance of a research mentor, contributing to cutting-edge projects in the areas of artificial intelligence, and machine learning. This is an opportunity to gain hands-on experience with working on real-world applications and expand your knowledge while having the potential to transform and leave a lasting impact on our company's technology stack."",
+    ""Requirements_Essential"": ""Currently pursuing or recently completed a BS/MS/PhD degree in Computer Science, Artificial Intelligence, or a related field. Strong programming skills in languages such as Python, Rust or C++. Familiarity with machine learning frameworks and libraries, such as JAX or PyTorch. Solid understanding of fundamental ML concepts, algorithms, and techniques. Ability to analyze and interpret research papers and technical documentation. Excellent problem-solving and critical-thinking abilities. Strong written and verbal communication skills. Proactive and self-motivated, with the ability to work independently and in a team environment."",
+    ""Requirements_Preferred"": ""Prior experience in AI research or projects. Comfort with ambiguity and resilient when facing rapid change. Ability to communicate complex research in a clear, precise, and actionable manner. A strong interest in empirical research and for answering hard questions with research. Interpersonal experience: cross-group and cross-culture collaboration. Ability to stay in touch with the literature of a particular domain and has the ability to reproduce results if needed."",
+    ""AdditionalSkills"": """",
+    ""Compensation_SalaryRange"": ""$110,000-120,000"",
+    ""Compensation_Benefits"": """",
+    ""OtherInformation"": """",
+    ""CompanyInformation_About"": """",
+    ""CompanyInformation_Culture"": """",
+    ""CompanyInformation_Values"": """"
+}"
+0,"{
+    ""job_posting_id"": """",
+    ""CompanyName"": ""Contextual AI"",
+    ""Location"": ""Mountain View, CA"",
+    ""Description"": ""We are seeking talented and motivated interns to join our AI Research team. As an AI Research Intern, you will work directly under the guidance of a research mentor, contributing to cutting-edge projects in the areas of artificial intelligence, and machine learning. This is an opportunity to gain hands-on experience with working on real-world applications and expand your knowledge while having the potential to transform and leave a lasting impact on our company's technology stack."",
+    ""Requirements_Essential"": ""Currently pursuing or recently completed a BS/MS/PhD degree in Computer Science, Artificial Intelligence, or a related field. Strong programming skills in languages such as Python, Rust or C++. Familiarity with machine learning frameworks and libraries, such as JAX or PyTorch. Solid understanding of fundamental ML concepts, algorithms, and techniques. Ability to analyze and interpret research papers and technical documentation. Excellent problem-solving and critical-thinking abilities. Strong written and verbal communication skills. Proactive and self-motivated, with the ability to work independently and in a team environment."",
+    ""Requirements_Preferred"": ""Prior experience in AI research or projects. Comfort with ambiguity and resilient when facing rapid change. Ability to communicate complex research in a clear, precise, and actionable manner. A strong interest in empirical research and for answering hard questions with research. Interpersonal experience: cross-group and cross-culture collaboration. Ability to stay in touch with the literature of a particular domain and has the ability to reproduce results if needed."",
+    ""AdditionalSkills"": """",
+    ""Compensation_SalaryRange"": ""$110,000-120,000"",
+    ""Compensation_Benefits"": """",
+    ""OtherInformation"": """",
+    ""CompanyInformation_About"": """",
+    ""CompanyInformation_Culture"": """",
+    ""CompanyInformation_Values"": """"
+}"
+0,"{
+    ""job_posting_id"": """",
+    ""CompanyName"": ""Contextual AI"",
+    ""Location"": ""Mountain View, CA"",
+    ""Description"": ""We are seeking talented and motivated interns to join our AI Research team. As an AI Research Intern, you will work directly under the guidance of a research mentor, contributing to cutting-edge projects in the areas of artificial intelligence, and machine learning. This is an opportunity to gain hands-on experience with working on real-world applications and expand your knowledge while having the potential to transform and leave a lasting impact on our company's technology stack."",
+    ""Requirements_Essential"": ""Currently pursuing or recently completed a BS/MS/PhD degree in Computer Science, Artificial Intelligence, or a related field. Strong programming skills in languages such as Python, Rust or C++. Familiarity with machine learning frameworks and libraries, such as JAX or PyTorch. Solid understanding of fundamental ML concepts, algorithms, and techniques. Ability to analyze and interpret research papers and technical documentation. Excellent problem-solving and critical-thinking abilities. Strong written and verbal communication skills. Proactive and self-motivated, with the ability to work independently and in a team environment."",
+    ""Requirements_Preferred"": ""Prior experience in AI research or projects. Comfort with ambiguity and resilient when facing rapid change. Ability to communicate complex research in a clear, precise, and actionable manner. A strong interest in empirical research and for answering hard questions with research. Interpersonal experience: cross-group and cross-culture collaboration. Ability to stay in touch with the literature of a particular domain and has the ability to reproduce results if needed."",
+    ""AdditionalSkills"": """",
+    ""Compensation_SalaryRange"": ""$110,000-120,000"",
+    ""Compensation_Benefits"": """",
+    ""OtherInformation"": ""Equal employment opportunities provided to all qualified individuals without regard to race, color, religion, sex, gender identity, sexual orientation, pregnancy, age, national origin, physical or mental disability, military or veteran status, genetic information, or any other protected classification."",
+    ""CompanyInformation_About"": """",
+    ""CompanyInformation_Culture"": """",
+    ""CompanyInformation_Values"": """"
+}"
+0,"{
+    ""job_posting_id"": """",
+    ""CompanyName"": ""Contextual AI"",
+    ""Location"": ""Mountain View, CA"",
+    ""Description"": ""We are seeking talented and motivated interns to join our AI Research team. As an AI Research Intern, you will work directly under the guidance of a research mentor, contributing to cutting-edge projects in the areas of artificial intelligence, and machine learning. This is an opportunity to gain hands-on experience with working on real-world applications and expand your knowledge while having the potential to transform and leave a lasting impact on our company's technology stack."",
+    ""Requirements_Essential"": ""Currently pursuing or recently completed a BS/MS/PhD degree in Computer Science, Artificial Intelligence, or a related field. Strong programming skills in languages such as Python, Rust or C++. Familiarity with machine learning frameworks and libraries, such as JAX or PyTorch. Solid understanding of fundamental ML concepts, algorithms, and techniques. Ability to analyze and interpret research papers and technical documentation. Excellent problem-solving and critical-thinking abilities. Strong written and verbal communication skills. Proactive and self-motivated, with the ability to work independently and in a team environment."",
+    ""Requirements_Preferred"": ""Prior experience in AI research or projects. Comfort with ambiguity and resilient when facing rapid change. Ability to communicate complex research in a clear, precise, and actionable manner. A strong interest in empirical research and for answering hard questions with research. Interpersonal experience: cross-group and cross-culture collaboration. Ability to stay in touch with the literature of a particular domain and has the ability to reproduce results if needed."",
+    ""AdditionalSkills"": """",
+    ""Compensation_SalaryRange"": ""$110,000-120,000"",
+    ""Compensation_Benefits"": """",
+    ""OtherInformation"": """",
+    ""CompanyInformation_About"": """",
+    ""CompanyInformation_Culture"": """",
+    ""CompanyInformation_Values"": """"
+}"
+0,"{
+    ""job_posting_id"": """",
+    ""CompanyName"": ""Contextual AI"",
+    ""Location"": ""Mountain View, CA"",
+    ""Description"": ""We are seeking talented and motivated interns to join our AI Research team. As an AI Research Intern, you will work directly under the guidance of a research mentor, contributing to cutting-edge projects in the areas of artificial intelligence, and machine learning. This is an opportunity to gain hands-on experience with working on real-world applications and expand your knowledge while having the potential to transform and leave a lasting impact on our company's technology stack."",
+    ""Requirements_Essential"": ""Currently pursuing or recently completed a BS/MS/PhD degree in Computer Science, Artificial Intelligence, or a related field. Strong programming skills in languages such as Python, Rust or C++. Familiarity with machine learning frameworks and libraries, such as JAX or PyTorch. Solid understanding of fundamental ML concepts, algorithms, and techniques. Ability to analyze and interpret research papers and technical documentation. Excellent problem-solving and critical-thinking abilities. Strong written and verbal communication skills. Proactive and self-motivated, with the ability to work independently and in a team environment."",
+    ""Requirements_Preferred"": ""Prior experience in AI research or projects. Comfort with ambiguity and resilient when facing rapid change. Ability to communicate complex research in a clear, precise, and actionable manner. A strong interest in empirical research and for answering hard questions with research. Interpersonal experience: cross-group and cross-culture collaboration. Ability to stay in touch with the literature of a particular domain and has the ability to reproduce results if needed."",
+    ""AdditionalSkills"": """",
+    ""Compensation_SalaryRange"": ""$110,000-120,000"",
+    ""Compensation_Benefits"": """",
+    ""OtherInformation"": """",
+    ""CompanyInformation_About"": """",
+    ""CompanyInformation_Culture"": """",
+    ""CompanyInformation_Values"": """"
+}"
+0,"{
+    ""job_posting_id"": ""12345"",
+    ""CompanyName"": ""ABC Company"",
+    ""Location"": ""New York, NY"",
+    ""Description"": ""We are seeking a talented individual to join our team."",
+    ""Requirements_Essential"": ""Bachelor's degree in Computer Science"",
+    ""Requirements_Preferred"": ""Master's degree in Business Administration"",
+    ""AdditionalSkills"": ""Experience with data analysis"",
+    ""Compensation_SalaryRange"": ""$50,000 - $70,000"",
+    ""Compensation_Benefits"": ""Health insurance, 401k"",
+    ""OtherInformation"": """",
+    ""CompanyInformation_About"": ""ABC Company is a leading technology firm."",
+    ""CompanyInformation_Culture"": ""We value teamwork and innovation."",
+    ""CompanyInformation_Values"": ""Integrity, Excellence, Collaboration""
+}"
+0,"{
+    ""job_posting_id"": """",
+    ""CompanyName"": ""Contextual AI"",
+    ""Location"": ""Mountain View, CA"",
+    ""Description"": ""We are seeking talented and motivated interns to join our AI Research team. As an AI Research Intern, you will work directly under the guidance of a research mentor, contributing to cutting-edge projects in the areas of artificial intelligence, and machine learning. This is an opportunity to gain hands-on experience with working on real-world applications and expand your knowledge while having the potential to transform and leave a lasting impact on our company's technology stack."",
+    ""Requirements_Essential"": ""Currently pursuing or recently completed a BS/MS/PhD degree in Computer Science, Artificial Intelligence, or a related field. Strong programming skills in languages such as Python, Rust or C++. Familiarity with machine learning frameworks and libraries, such as JAX or PyTorch. Solid understanding of fundamental ML concepts, algorithms, and techniques. Ability to analyze and interpret research papers and technical documentation. Excellent problem-solving and critical-thinking abilities. Strong written and verbal communication skills. Proactive and self-motivated, with the ability to work independently and in a team environment."",
+    ""Requirements_Preferred"": ""Prior experience in AI research or projects. Comfort with ambiguity and resilient when facing rapid change. Ability to communicate complex research in a clear, precise, and actionable manner. A strong interest in empirical research and for answering hard questions with research. Interpersonal experience: cross-group and cross-culture collaboration. Ability to stay in touch with the literature of a particular domain and has the ability to reproduce results if needed."",
+    ""AdditionalSkills"": """",
+    ""Compensation_SalaryRange"": ""$110,000-120,000"",
+    ""Compensation_Benefits"": """",
+    ""OtherInformation"": """",
+    ""CompanyInformation_About"": """",
+    ""CompanyInformation_Culture"": """",
+    ""CompanyInformation_Values"": """"
+}"
+0,"{
+    ""job_posting_id"": """",
+    ""CompanyName"": ""Contextual AI"",
+    ""Location"": ""Mountain View, CA"",
+    ""Description"": ""We are seeking talented and motivated interns to join our AI Research team. As an AI Research Intern, you will work directly under the guidance of a research mentor, contributing to cutting-edge projects in the areas of artificial intelligence, and machine learning. This is an opportunity to gain hands-on experience with working on real-world applications and expand your knowledge while having the potential to transform and leave a lasting impact on our company's technology stack."",
+    ""Requirements_Essential"": ""Currently pursuing or recently completed a BS/MS/PhD degree in Computer Science, Artificial Intelligence, or a related field. Strong programming skills in languages such as Python, Rust or C++. Familiarity with machine learning frameworks and libraries, such as JAX or PyTorch. Solid understanding of fundamental ML concepts, algorithms, and techniques. Ability to analyze and interpret research papers and technical documentation. Excellent problem-solving and critical-thinking abilities. Strong written and verbal communication skills. Proactive and self-motivated, with the ability to work independently and in a team environment."",
+    ""Requirements_Preferred"": ""Prior experience in AI research or projects. Comfort with ambiguity and resilient when facing rapid change. Ability to communicate complex research in a clear, precise, and actionable manner. A strong interest in empirical research and for answering hard questions with research. Interpersonal experience: cross-group and cross-culture collaboration. Ability to stay in touch with the literature of a particular domain and has the ability to reproduce results if needed."",
+    ""AdditionalSkills"": """",
+    ""Compensation_SalaryRange"": ""$110,000-120,000"",
+    ""Compensation_Benefits"": """",
+    ""OtherInformation"": """",
+    ""CompanyInformation_About"": """",
+    ""CompanyInformation_Culture"": """",
+    ""CompanyInformation_Values"": """"
+}"
+0,"{
+    ""job_posting_id"": ""12345"",
+    ""CompanyName"": ""ABC Company"",
+    ""Location"": ""New York, NY"",
+    ""Description"": ""We are seeking a talented individual to join our team."",
+    ""Requirements_Essential"": ""Bachelor's degree in Computer Science"",
+    ""Requirements_Preferred"": ""Master's degree in Business Administration"",
+    ""AdditionalSkills"": ""Experience with data analysis"",
+    ""Compensation_SalaryRange"": ""$50,000 - $70,000"",
+    ""Compensation_Benefits"": ""Health insurance, 401k"",
+    ""OtherInformation"": """",
+    ""CompanyInformation_About"": ""ABC Company is a leading technology firm."",
+    ""CompanyInformation_Culture"": ""We value teamwork and innovation."",
+    ""CompanyInformation_Values"": ""Integrity, Excellence, Collaboration""
+}"
+0,"{
+    ""job_posting_id"": """",
+    ""CompanyName"": """",
+    ""Location"": """",
+    ""Description"": """",
+    ""Requirements_Essential"": """",
+    ""Requirements_Preferred"": """",
+    ""AdditionalSkills"": """",
+    ""Compensation_SalaryRange"": """",
+    ""Compensation_Benefits"": """",
+    ""OtherInformation"": """",
+    ""CompanyInformation_About"": """",
+    ""CompanyInformation_Culture"": """",
+    ""CompanyInformation_Values"": """"
+}"
+0,"{
+    ""job_posting_id"": """",
+    ""CompanyName"": ""Contextual AI"",
+    ""Location"": ""Mountain View, CA"",
+    ""Description"": ""We are seeking talented and motivated interns to join our AI Research team. As an AI Research Intern, you will work directly under the guidance of a research mentor, contributing to cutting-edge projects in the areas of artificial intelligence, and machine learning. This is an opportunity to gain hands-on experience with working on real-world applications and expand your knowledge while having the potential to transform and leave a lasting impact on our company's technology stack."",
+    ""Requirements_Essential"": ""Currently pursuing or recently completed a BS/MS/PhD degree in Computer Science, Artificial Intelligence, or a related field. Strong programming skills in languages such as Python, Rust or C++. Familiarity with machine learning frameworks and libraries, such as JAX or PyTorch. Solid understanding of fundamental ML concepts, algorithms, and techniques. Ability to analyze and interpret research papers and technical documentation. Excellent problem-solving and critical-thinking abilities. Strong written and verbal communication skills. Proactive and self-motivated, with the ability to work independently and in a team environment."",
+    ""Requirements_Preferred"": ""Prior experience in AI research or projects. Comfort with ambiguity and resilient when facing rapid change. Ability to communicate complex research in a clear, precise, and actionable manner. A strong interest in empirical research and for answering hard questions with research. Interpersonal experience: cross-group and cross-culture collaboration. Ability to stay in touch with the literature of a particular domain and has the ability to reproduce results if needed."",
+    ""AdditionalSkills"": """",
+    ""Compensation_SalaryRange"": ""$110,000-120,000"",
+    ""Compensation_Benefits"": """",
+    ""OtherInformation"": ""Equal employment opportunities provided to all qualified individuals without regard to race, color, religion, sex, gender identity, sexual orientation, pregnancy, age, national origin, physical or mental disability, military or veteran status, genetic information, or any other protected classification."",
+    ""CompanyInformation_About"": """",
+    ""CompanyInformation_Culture"": """",
+    ""CompanyInformation_Values"": """"
+}"
+0,"{
+    ""job_posting_id"": """",
+    ""CompanyName"": ""Contextual AI"",
+    ""Location"": ""Mountain View, CA"",
+    ""Description"": ""We are seeking talented and motivated interns to join our AI Research team. As an AI Research Intern, you will work directly under the guidance of a research mentor, contributing to cutting-edge projects in the areas of artificial intelligence, and machine learning. This is an opportunity to gain hands-on experience with working on real-world applications and expand your knowledge while having the potential to transform and leave a lasting impact on our company's technology stack."",
+    ""Requirements_Essential"": ""Currently pursuing or recently completed a BS/MS/PhD degree in Computer Science, Artificial Intelligence, or a related field. Strong programming skills in languages such as Python, Rust or C++. Familiarity with machine learning frameworks and libraries, such as JAX or PyTorch. Solid understanding of fundamental ML concepts, algorithms, and techniques. Ability to analyze and interpret research papers and technical documentation. Excellent problem-solving and critical-thinking abilities. Strong written and verbal communication skills. Proactive and self-motivated, with the ability to work independently and in a team environment."",
+    ""Requirements_Preferred"": ""Prior experience in AI research or projects. Comfort with ambiguity and resilient when facing rapid change. Ability to communicate complex research in a clear, precise, and actionable manner. A strong interest in empirical research and for answering hard questions with research. Interpersonal experience: cross-group and cross-culture collaboration. Ability to stay in touch with the literature of a particular domain and has the ability to reproduce results if needed."",
+    ""AdditionalSkills"": """",
+    ""Compensation_SalaryRange"": ""$110,000-120,000"",
+    ""Compensation_Benefits"": """",
+    ""OtherInformation"": """",
+    ""CompanyInformation_About"": """",
+    ""CompanyInformation_Culture"": """",
+    ""CompanyInformation_Values"": """"
+}"
+0,"{
+    ""job_posting_id"": """",
+    ""CompanyName"": ""Contextual AI"",
+    ""Location"": ""Mountain View, CA"",
+    ""Description"": ""We are seeking talented and motivated interns to join our AI Research team. As an AI Research Intern, you will work directly under the guidance of a research mentor, contributing to cutting-edge projects in the areas of artificial intelligence, and machine learning. This is an opportunity to gain hands-on experience with working on real-world applications and expand your knowledge while having the potential to transform and leave a lasting impact on our company's technology stack."",
+    ""Requirements_Essential"": ""Currently pursuing or recently completed a BS/MS/PhD degree in Computer Science, Artificial Intelligence, or a related field. Strong programming skills in languages such as Python, Rust or C++. Familiarity with machine learning frameworks and libraries, such as JAX or PyTorch. Solid understanding of fundamental ML concepts, algorithms, and techniques. Ability to analyze and interpret research papers and technical documentation. Excellent problem-solving and critical-thinking abilities. Strong written and verbal communication skills. Proactive and self-motivated, with the ability to work independently and in a team environment."",
+    ""Requirements_Preferred"": ""Prior experience in AI research or projects. Comfort with ambiguity and resilient when facing rapid change. Ability to communicate complex research in a clear, precise, and actionable manner. A strong interest in empirical research and for answering hard questions with research. Interpersonal experience: cross-group and cross-culture collaboration. Ability to stay in touch with the literature of a particular domain and has the ability to reproduce results if needed."",
+    ""AdditionalSkills"": """",
+    ""Compensation_SalaryRange"": ""$110,000-120,000"",
+    ""Compensation_Benefits"": """",
+    ""OtherInformation"": """",
+    ""CompanyInformation_About"": """",
+    ""CompanyInformation_Culture"": """",
+    ""CompanyInformation_Values"": """"
+}"
+0,"{
+    ""job_posting_id"": """",
+    ""CompanyName"": ""Contextual AI"",
+    ""Location"": ""Mountain View, CA"",
+    ""Description"": ""We are seeking talented and motivated interns to join our AI Research team. As an AI Research Intern, you will work directly under the guidance of a research mentor, contributing to cutting-edge projects in the areas of artificial intelligence, and machine learning. This is an opportunity to gain hands-on experience with working on real-world applications and expand your knowledge while having the potential to transform and leave a lasting impact on our company's technology stack."",
+    ""Requirements_Essential"": ""Currently pursuing or recently completed a BS/MS/PhD degree in Computer Science, Artificial Intelligence, or a related field. Strong programming skills in languages such as Python, Rust or C++. Familiarity with machine learning frameworks and libraries, such as JAX or PyTorch. Solid understanding of fundamental ML concepts, algorithms, and techniques. Ability to analyze and interpret research papers and technical documentation. Excellent problem-solving and critical-thinking abilities. Strong written and verbal communication skills. Proactive and self-motivated, with the ability to work independently and in a team environment."",
+    ""Requirements_Preferred"": ""Prior experience in AI research or projects. Comfort with ambiguity and resilient when facing rapid change. Ability to communicate complex research in a clear, precise, and actionable manner. A strong interest in empirical research and for answering hard questions with research. Interpersonal experience: cross-group and cross-culture collaboration. Ability to stay in touch with the literature of a particular domain and has the ability to reproduce results if needed."",
+    ""AdditionalSkills"": """",
+    ""Compensation_SalaryRange"": ""$110,000-120,000"",
+    ""Compensation_Benefits"": """",
+    ""OtherInformation"": """",
+    ""CompanyInformation_About"": """",
+    ""CompanyInformation_Culture"": """",
+    ""CompanyInformation_Values"": """"
+}"
+0,"{
+    ""job_posting_id"": """",
+    ""CompanyName"": """",
+    ""Location"": """",
+    ""Description"": """",
+    ""Requirements_Essential"": """",
+    ""Requirements_Preferred"": """",
+    ""AdditionalSkills"": """",
+    ""Compensation_SalaryRange"": """",
+    ""Compensation_Benefits"": """",
+    ""OtherInformation"": """",
+    ""CompanyInformation_About"": """",
+    ""CompanyInformation_Culture"": """",
+    ""CompanyInformation_Values"": """"
+}"
+0,"{
+    ""job_posting_id"": """",
+    ""CompanyName"": ""Contextual AI"",
+    ""Location"": ""Mountain View, CA"",
+    ""Description"": ""We are seeking talented and motivated interns to join our AI Research team. As an AI Research Intern, you will work directly under the guidance of a research mentor, contributing to cutting-edge projects in the areas of artificial intelligence, and machine learning. This is an opportunity to gain hands-on experience with working on real-world applications and expand your knowledge while having the potential to transform and leave a lasting impact on our company's technology stack."",
+    ""Requirements_Essential"": ""Currently pursuing or recently completed a BS/MS/PhD degree in Computer Science, Artificial Intelligence, or a related field. Strong programming skills in languages such as Python, Rust or C++. Familiarity with machine learning frameworks and libraries, such as JAX or PyTorch. Solid understanding of fundamental ML concepts, algorithms, and techniques. Ability to analyze and interpret research papers and technical documentation. Excellent problem-solving and critical-thinking abilities. Strong written and verbal communication skills. Proactive and self-motivated, with the ability to work independently and in a team environment."",
+    ""Requirements_Preferred"": ""Prior experience in AI research or projects. Comfort with ambiguity and resilient when facing rapid change. Ability to communicate complex research in a clear, precise, and actionable manner. A strong interest in empirical research and for answering hard questions with research. Interpersonal experience: cross-group and cross-culture collaboration. Ability to stay in touch with the literature of a particular domain and has the ability to reproduce results if needed."",
+    ""AdditionalSkills"": """",
+    ""Compensation_SalaryRange"": ""$110,000-120,000"",
+    ""Compensation_Benefits"": """",
+    ""OtherInformation"": """",
+    ""CompanyInformation_About"": ""Equal Employment: Contextual AI provides equal employment opportunities to all qualified individuals without regard to race, color, religion, sex, gender identity, sexual orientation, pregnancy, age, national origin, physical or mental disability, military or veteran status, genetic information, or any other protected classification. Equal employment opportunity includes but is not limited to, hiring, training, promotion, demotion, transfer, leaves of absence, and termination. Contextual AI takes allegations of discrimination, harassment, and retaliation seriously, and will promptly investigate when such behavior is reported."",
+    ""CompanyInformation_Culture"": """",
+    ""CompanyInformation_Values"": """"
+}"
+0,"{
+    ""job_posting_id"": """",
+    ""CompanyName"": ""Contextual AI"",
+    ""Location"": ""Mountain View, CA"",
+    ""Description"": ""We are seeking talented and motivated interns to join our AI Research team. As an AI Research Intern, you will work directly under the guidance of a research mentor, contributing to cutting-edge projects in the areas of artificial intelligence, and machine learning. This is an opportunity to gain hands-on experience with working on real-world applications and expand your knowledge while having the potential to transform and leave a lasting impact on our company's technology stack."",
+    ""Requirements_Essential"": ""Currently pursuing or recently completed a BS/MS/PhD degree in Computer Science, Artificial Intelligence, or a related field. Strong programming skills in languages such as Python, Rust or C++. Familiarity with machine learning frameworks and libraries, such as JAX or PyTorch. Solid understanding of fundamental ML concepts, algorithms, and techniques. Ability to analyze and interpret research papers and technical documentation. Excellent problem-solving and critical-thinking abilities. Strong written and verbal communication skills. Proactive and self-motivated, with the ability to work independently and in a team environment."",
+    ""Requirements_Preferred"": ""Prior experience in AI research or projects. Comfort with ambiguity and resilient when facing rapid change. Ability to communicate complex research in a clear, precise, and actionable manner. A strong interest in empirical research and for answering hard questions with research. Interpersonal experience: cross-group and cross-culture collaboration. Ability to stay in touch with the literature of a particular domain and has the ability to reproduce results if needed."",
+    ""AdditionalSkills"": """",
+    ""Compensation_SalaryRange"": ""$110,000-120,000"",
+    ""Compensation_Benefits"": """",
+    ""OtherInformation"": """",
+    ""CompanyInformation_About"": """",
+    ""CompanyInformation_Culture"": """",
+    ""CompanyInformation_Values"": """"
+}"
+0,"{
+    ""job_posting_id"": """",
+    ""CompanyName"": ""Contextual AI"",
+    ""Location"": ""Mountain View, CA"",
+    ""Description"": ""We are seeking talented and motivated interns to join our AI Research team. As an AI Research Intern, you will work directly under the guidance of a research mentor, contributing to cutting-edge projects in the areas of artificial intelligence, and machine learning. This is an opportunity to gain hands-on experience with working on real-world applications and expand your knowledge while having the potential to transform and leave a lasting impact on our company's technology stack."",
+    ""Requirements_Essential"": ""Currently pursuing or recently completed a BS/MS/PhD degree in Computer Science, Artificial Intelligence, or a related field. Strong programming skills in languages such as Python, Rust or C++. Familiarity with machine learning frameworks and libraries, such as JAX or PyTorch. Solid understanding of fundamental ML concepts, algorithms, and techniques. Ability to analyze and interpret research papers and technical documentation. Excellent problem-solving and critical-thinking abilities. Strong written and verbal communication skills. Proactive and self-motivated, with the ability to work independently and in a team environment."",
+    ""Requirements_Preferred"": ""Prior experience in AI research or projects. Comfort with ambiguity and resilient when facing rapid change. Ability to communicate complex research in a clear, precise, and actionable manner. A strong interest in empirical research and for answering hard questions with research. Interpersonal experience: cross-group and cross-culture collaboration. Ability to stay in touch with the literature of a particular domain and has the ability to reproduce results if needed."",
+    ""AdditionalSkills"": """",
+    ""Compensation_SalaryRange"": ""$110,000-120,000"",
+    ""Compensation_Benefits"": """",
+    ""OtherInformation"": """",
+    ""CompanyInformation_About"": """",
+    ""CompanyInformation_Culture"": """",
+    ""CompanyInformation_Values"": """"
+}"
+0,"{
+    ""job_posting_id"": """",
+    ""CompanyName"": """",
+    ""Location"": """",
+    ""Description"": """",
+    ""Requirements_Essential"": """",
+    ""Requirements_Preferred"": """",
+    ""AdditionalSkills"": """",
+    ""Compensation_SalaryRange"": """",
+    ""Compensation_Benefits"": """",
+    ""OtherInformation"": """",
+    ""CompanyInformation_About"": """",
+    ""CompanyInformation_Culture"": """",
+    ""CompanyInformation_Values"": """"
+}"
+0,"{
+    ""job_posting_id"": """",
+    ""CompanyName"": ""Contextual AI"",
+    ""Location"": ""Mountain View, CA"",
+    ""Description"": ""We are seeking talented and motivated interns to join our AI Research team. As an AI Research Intern, you will work directly under the guidance of a research mentor, contributing to cutting-edge projects in the areas of artificial intelligence, and machine learning. This is an opportunity to gain hands-on experience with working on real-world applications and expand your knowledge while having the potential to transform and leave a lasting impact on our company's technology stack."",
+    ""Requirements_Essential"": ""Currently pursuing or recently completed a BS/MS/PhD degree in Computer Science, Artificial Intelligence, or a related field. Strong programming skills in languages such as Python, Rust or C++. Familiarity with machine learning frameworks and libraries, such as JAX or PyTorch. Solid understanding of fundamental ML concepts, algorithms, and techniques. Ability to analyze and interpret research papers and technical documentation. Excellent problem-solving and critical-thinking abilities. Strong written and verbal communication skills. Proactive and self-motivated, with the ability to work independently and in a team environment."",
+    ""Requirements_Preferred"": ""Prior experience in AI research or projects. Comfort with ambiguity and resilient when facing rapid change. Ability to communicate complex research in a clear, precise, and actionable manner. A strong interest in empirical research and for answering hard questions with research. Interpersonal experience: cross-group and cross-culture collaboration. Ability to stay in touch with the literature of a particular domain and has the ability to reproduce results if needed."",
+    ""AdditionalSkills"": """",
+    ""Compensation_SalaryRange"": ""$110,000-120,000"",
+    ""Compensation_Benefits"": """",
+    ""OtherInformation"": ""Equal employment opportunities provided to all qualified individuals without regard to race, color, religion, sex, gender identity, sexual orientation, pregnancy, age, national origin, physical or mental disability, military or veteran status, genetic information, or any other protected classification."",
+    ""CompanyInformation_About"": """",
+    ""CompanyInformation_Culture"": """",
+    ""CompanyInformation_Values"": """"
+}"
+0,"{
+    ""job_posting_id"": """",
+    ""CompanyName"": ""Contextual AI"",
+    ""Location"": ""Mountain View, CA"",
+    ""Description"": ""We are seeking talented and motivated interns to join our AI Research team. As an AI Research Intern, you will work directly under the guidance of a research mentor, contributing to cutting-edge projects in the areas of artificial intelligence, and machine learning. This is an opportunity to gain hands-on experience with working on real-world applications and expand your knowledge while having the potential to transform and leave a lasting impact on our company's technology stack."",
+    ""Requirements_Essential"": ""Currently pursuing or recently completed a BS/MS/PhD degree in Computer Science, Artificial Intelligence, or a related field. Strong programming skills in languages such as Python, Rust or C++. Familiarity with machine learning frameworks and libraries, such as JAX or PyTorch. Solid understanding of fundamental ML concepts, algorithms, and techniques. Ability to analyze and interpret research papers and technical documentation. Excellent problem-solving and critical-thinking abilities. Strong written and verbal communication skills. Proactive and self-motivated, with the ability to work independently and in a team environment."",
+    ""Requirements_Preferred"": ""Prior experience in AI research or projects. Comfort with ambiguity and resilient when facing rapid change. Ability to communicate complex research in a clear, precise, and actionable manner. A strong interest in empirical research and for answering hard questions with research. Interpersonal experience: cross-group and cross-culture collaboration. Ability to stay in touch with the literature of a particular domain and has the ability to reproduce results if needed."",
+    ""AdditionalSkills"": """",
+    ""Compensation_SalaryRange"": ""$110,000-120,000"",
+    ""Compensation_Benefits"": """",
+    ""OtherInformation"": ""Equal employment opportunities provided to all qualified individuals without regard to race, color, religion, sex, gender identity, sexual orientation, pregnancy, age, national origin, physical or mental disability, military or veteran status, genetic information, or any other protected classification."",
+    ""CompanyInformation_About"": """",
+    ""CompanyInformation_Culture"": """",
+    ""CompanyInformation_Values"": """"
+}"
+0,"{
+    ""job_posting_id"": """",
+    ""CompanyName"": ""Contextual AI"",
+    ""Location"": ""Mountain View, CA"",
+    ""Description"": ""We are seeking talented and motivated interns to join our AI Research team. As an AI Research Intern, you will work directly under the guidance of a research mentor, contributing to cutting-edge projects in the areas of artificial intelligence, and machine learning. This is an opportunity to gain hands-on experience with working on real-world applications and expand your knowledge while having the potential to transform and leave a lasting impact on our company's technology stack."",
+    ""Requirements"": {
+        ""Essential"": [
+            ""Currently pursuing or recently completed a BS/MS/PhD degree in Computer Science, Artificial Intelligence, or a related field."",
+            ""Strong programming skills in languages such as Python, Rust or C++."",
+            ""Familiarity with machine learning frameworks and libraries, such as JAX or PyTorch."",
+            ""Solid understanding of fundamental ML concepts, algorithms, and techniques."",
+            ""Ability to analyze and interpret research papers and technical documentation."",
+            ""Excellent problem-solving and critical-thinking abilities."",
+            ""Strong written and verbal communication skills."",
+            ""Proactive and self-motivated, with the ability to work independently and in a team environment.""
+        ],
+        ""Preferred"": [
+            ""Prior experience in AI research or projects."",
+            ""Comfort with ambiguity and resilient when facing rapid change."",
+            ""Ability to communicate complex research in a clear, precise, and actionable manner."",
+            ""A strong interest in empirical research and for answering hard questions with research."",
+            ""Interpersonal experience: cross-group and cross-culture collaboration"",
+            ""Ability to stay in touch with the literature of a particular domain and has the ability to reproduce results if needed.""
+        ]
+    },
+    ""AdditionalSkills"": [],
+    ""Compensation"": {
+        ""SalaryRange"": ""$110,000-120,000"",
+        ""Benefits"": []
+    },
+    ""OtherInformation"": """",
+    ""CompanyInformation"": {
+        ""About"": """",
+        ""Culture"": """",
+        ""Values"": """"
+    }
+}"
+0,"{
+    ""job_posting_id"": """",
+    ""CompanyName"": ""Contextual AI"",
+    ""Location"": ""Mountain View, CA"",
+    ""Description"": ""We are seeking talented and motivated interns to join our AI Research team. As an AI Research Intern, you will work directly under the guidance of a research mentor, contributing to cutting-edge projects in the areas of artificial intelligence, and machine learning. This is an opportunity to gain hands-on experience with working on real-world applications and expand your knowledge while having the potential to transform and leave a lasting impact on our company's technology stack."",
+    ""Requirements"": {
+        ""Essential"": [
+            ""Currently pursuing or recently completed a BS/MS/PhD degree in Computer Science, Artificial Intelligence, or a related field."",
+            ""Strong programming skills in languages such as Python, Rust or C++."",
+            ""Familiarity with machine learning frameworks and libraries, such as JAX or PyTorch."",
+            ""Solid understanding of fundamental ML concepts, algorithms, and techniques."",
+            ""Ability to analyze and interpret research papers and technical documentation."",
+            ""Excellent problem-solving and critical-thinking abilities."",
+            ""Strong written and verbal communication skills."",
+            ""Proactive and self-motivated, with the ability to work independently and in a team environment.""
+        ],
+        ""Preferred"": [
+            ""Prior experience in AI research or projects."",
+            ""Comfort with ambiguity and resilient when facing rapid change."",
+            ""Ability to communicate complex research in a clear, precise, and actionable manner."",
+            ""A strong interest in empirical research and for answering hard questions with research."",
+            ""Interpersonal experience: cross-group and cross-culture collaboration"",
+            ""Ability to stay in touch with the literature of a particular domain and has the ability to reproduce results if needed.""
+        ]
+    },
+    ""AdditionalSkills"": [],
+    ""Compensation"": {
+        ""SalaryRange"": ""$110,000-120,000"",
+        ""Benefits"": []
+    },
+    ""OtherInformation"": """",
+    ""CompanyInformation"": {
+        ""About"": """",
+        ""Culture"": """",
+        ""Values"": """"
+    }
+}"
