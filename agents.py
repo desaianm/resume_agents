@@ -1,5 +1,6 @@
 from crewai import Agent
 from crewai_tools.tools import WebsiteSearchTool, SerperDevTool, FileReadTool, ScrapeWebsiteTool, CSVSearchTool
+from tools import SearchTool
 
 web_search_tool = WebsiteSearchTool()
 seper_dev_tool = SerperDevTool()
@@ -16,8 +17,11 @@ temp_read = FileReadTool(
 	file_path='profile_template.json',
 	description='A Tool to read profile template'
 )
-look_csv_tool = CSVSearchTool(
-	csv='internships.csv'
+look_csv_tool = SearchTool(
+)
+
+csv_search_tool = CSVSearchTool(
+	file_path='internships.csv',
 )
 
 class Agents():
@@ -36,21 +40,32 @@ class Agents():
 		return Agent(
 			role='Resume Analyzer',
 			goal=' Analyze Resume and make a report for relvant jobs for it',
-			tools=[web_search_tool],
+			tools=[],
 			backstory='Expert in Application Tracking System and extracting relevant information from resume',
 			verbose=True,
+			allow_delegation = False
 		)
 	
 	def find_jobs(self):
 		return Agent(
 			role='Job Finder ',
 			goal='Find Jobs for details provided like skills, experience and projects',
-			tools=[look_csv_tool],
+			tools=[csv_search_tool],
 			backstory='Expert in finding jobs for candidate',
 			verbose=True,
 			allow_delegation=False,
 		)
 	
+	def query_agent(self):
+		return Agent(
+			role='String Generator ',
+			goal='Generate String to find job id from job title',
+			tools=[],
+			backstory='Expert in generating string ',
+			verbose=True,
+			allow_delegation=False,
+		)
+
 	def writer_agent(self):
 		return Agent(
 			role='Resume Writer',
@@ -69,4 +84,13 @@ class Agents():
 			verbose=True
 		)
 
-	
+	def search_agent(self):
+		return Agent(
+			role='Use Search Tool to search csv',
+			goal='Search a CSV file  by passing string into search tool.',
+			tools=[look_csv_tool],
+			backstory=' ',
+			verbose=True,
+			allow_delegation=False
+			# Additional configurations for the agent
+	)
